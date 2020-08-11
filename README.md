@@ -1,6 +1,6 @@
 # Machine Learning Interview Preparation (MLIP)
 ## Intro
-* Problem: ML engineer interview has a wide range of technical areas i.e big data, ML fundamental, Deep Learning fundamentals, Leetcode etc. Try to study everything within short time is a bad strategy. I have only one goal: save your time, prepare interview effectively. 
+* Problem: ML engineer interview has a wide range of technical areas i.e big data, ML fundamental, Deep Learning fundamentals, Leetcode etc. Trying to study everything within short time is a bad strategy. I have only one goal: save your time, prepare interview effectively. I've been helping around 50 people to prepare for MLE interview. Now I want to do it at scale.
 
 * Solution: provide a **minimum** set of focus area which covers all interview questions. I have interviewed at a lot of big companies (FAAG, MS, SnapChat, StitchFix, Intuit etc). I will not shared interview questions because of NDA. 
 
