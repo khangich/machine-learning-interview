@@ -1,6 +1,7 @@
 # Machine Learning Interview Preparation (MLIP)
 ## Why?
 * Preparing for Machine Learning Engineer (MLE) position is very challenging 1) many technical areas to cover 2) wide range of skills set: ML, coding and system design and 3) there are no shortage of material on the internet but they failed short in either not breath enough or not deep enough. 
+* One solution is to provide a minimum set of areas that actually reflect interview questions. You can see [study guide](plan.md). 
 
 
 ## How to prepare for interview? 
