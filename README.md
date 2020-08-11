@@ -5,7 +5,7 @@
 * Solution: provide a **minimum** set of focus area which covers all interview questions. I have interviewed at a lot of big companies (FAAG, MS, SnapChat, StitchFix, Intuit etc). I will not shared interview questions because of NDA. 
 
 ## How to prepare for interview? 
-1. Before you prepare for interiview, you can read [common questions](start.md). 
+1. Before you prepare for interiview, you can read [common questions](faqs.md). 
 2. What should I study? Use the [study guide](README.md) as a collections of focused areas. 
 3. Am I ready for interview? Use [readyness tests](ready.md) to see if you're  ready for interview. 
 4. How do I prepare for ML system design? Use [ML usecase](design.md) to go practice actual ML system design usecases. 
@@ -76,7 +76,7 @@ Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005
 * [Random forest vs GBDT](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/)
 * [Synthetic method for unbalanced data](https://www.jair.org/index.php/jair/article/download/10302/24590)
 * [Compare discriminative vs generative model](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3) and [extra read](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
-* [Logistic regression](https://www.youtube.com/watch?v=-la3q9d7AKQ)
+* [Logistic regression](https://www.youtube.com/watch?v=-la3q9d7AKQ). Try to implement logistic regression from scratch. Bonus point for vecrtorize version in numpy and complete in 20 minutes. Followup with MapReduce version. 
 * [Quantile regression](https://www.youtube.com/watch?v=s203ScTy4xQ&t=954s)
 * [L1/L2 intuition](https://www.linkedin.com/pulse/intuitive-visual-explanation-differences-between-l1-l2-xiaoli-chen/)
 
@@ -85,13 +85,14 @@ Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005
 * [Explain gradient boosting](https://www.youtube.com/watch?v=wPqtzj5VZus)
 * [Least Square as Maximum Likelihood Estimator](https://www.youtube.com/watch?v=_-Gnu498s3o)
 * [Maximum Likelihood Estimator introduction](https://www.youtube.com/watch?v=jpHreXjtw1Q)
+* [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html). Try to implement Kmeans from scratch. Bonus point for vecrtorize version in numpy and complete in 20 minutes. Followup with worst case time complexity and improvement for initialization. 
 
 Extra
 * [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808)
 * [Partial residual plot](https://en.wikipedia.org/wiki/Partial_residual_plot)
 * [SMOTE synthetic minority over-sampling technique](https://arxiv.org/pdf/1106.1813.pdf)
 * [SVM tuning](https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/)
-* [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
+
 * [kmeans initialization](https://www.coursera.org/lecture/cluster-analysis/3-3-initialization-of-k-means-clustering-bPyBl)
 * [Compare GINI index and Information Gain](https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf)
 * [Explain tf-idf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.7340&rep=rep1&type=pdf)
@@ -112,6 +113,7 @@ Extra
 * [Calibration in modern neural network](https://arxiv.org/pdf/1706.04599.pdf)
 * [Attention model](https://www.youtube.com/watch?v=quoGRI-1l0A&list=RDCMUCcIXc5mJsHVYTZR1maL5l9w&index=2)
 * [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+* [Ilya's thesis](https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 
 
 ## ML system design
