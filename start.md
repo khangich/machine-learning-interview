@@ -32,9 +32,9 @@
 
 * Do you think non-CS background affects my chances in any way? Not to my knowledge. 
 
-* How should I go about preparing? See [plan](plan.md)
+* How should I go about preparing? See [plan](README.md)
 
-* Can you help in how to get through the in-depth ML questions asked in the interviews? What sources did you follow for that? See [plan](plan.md) 
+* Can you help in how to get through the in-depth ML questions asked in the interviews? What sources did you follow for that? See [plan](README.md) 
 
 * Can you provide me mentorship on what to prepare and how to maximise my chances? Yes. Send me an email to helppreparemle@gmail.com. 
 
