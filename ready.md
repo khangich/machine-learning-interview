@@ -21,4 +21,5 @@ You should try to get 9/10 corrected questions.
 
 
 ## ML system design readyness (TBD)
+* See [design](design.md)
 
