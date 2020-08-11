@@ -6,9 +6,9 @@
 
 ## How to prepare for interview? 
 1. Before you prepare for interiview, you can read [common questions](start.md). 
-2. For preparation: use the [study guide](plan.md) as a collections of focused areas. 
-3. During/after preparation: use [readyness tests](ready.md) to see if you're  ready for interview. 
-4. Prepare for ML system design: use [ML usecase](design.md) to go practice actual ML system design usecases. 
+2. What should I study? Use the [study guide](plan.md) as a collections of focused areas. 
+3. Am I ready for interview? Use [readyness tests](ready.md) to see if you're  ready for interview. 
+4. How do I prepare for ML system design? Use [ML usecase](design.md) to go practice actual ML system design usecases. 
 
 
 ## Provide feedbacks
