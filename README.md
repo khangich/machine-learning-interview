@@ -72,27 +72,31 @@ Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005
 
 
 ## ML fundamentals
-* [Collinearity](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/) [and](https://www.youtube.com/watch?v=Cba9LJ9lS8s)
+* [Collinearity](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/) and [read more](https://www.youtube.com/watch?v=Cba9LJ9lS8s)
 * [Random forest vs GBDT](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/)
 * [Synthetic method for unbalanced data](https://www.jair.org/index.php/jair/article/download/10302/24590)
 * [Compare discriminative vs generative model](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3) and [extra read](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
 * [Logistic regression](https://www.youtube.com/watch?v=-la3q9d7AKQ)
 * [Quantile regression](https://www.youtube.com/watch?v=s203ScTy4xQ&t=954s)
 * [L1/L2 intuition](https://www.linkedin.com/pulse/intuitive-visual-explanation-differences-between-l1-l2-xiaoli-chen/)
-* [Optimizer Quasi newton method](http://www.seas.ucla.edu/~vandenbe/236C/lectures/qnewton.pdf)
+
 * [Decision tree and Random Forest fundamental](https://people.csail.mit.edu/dsontag/courses/ml16/slides/lecture11.pdf)
 * [Explain boosting](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
 * [Explain gradient boosting](https://www.youtube.com/watch?v=wPqtzj5VZus)
-* [Compare GINI index and Information Gain](https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf)
 * [Least Square as Maximum Likelihood Estimator](https://www.youtube.com/watch?v=_-Gnu498s3o)
 * [Maximum Likelihood Estimator introduction](https://www.youtube.com/watch?v=jpHreXjtw1Q)
-* [Explain tf-idf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.7340&rep=rep1&type=pdf)
+
+Extra
 * [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808)
 * [Partial residual plot](https://en.wikipedia.org/wiki/Partial_residual_plot)
+* [SMOTE synthetic minority over-sampling technique](https://arxiv.org/pdf/1106.1813.pdf)
 * [SVM tuning](https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/)
-* [Understanding L-BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)
 * [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html)
 * [kmeans initialization](https://www.coursera.org/lecture/cluster-analysis/3-3-initialization-of-k-means-clustering-bPyBl)
+* [Compare GINI index and Information Gain](https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf)
+* [Explain tf-idf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.7340&rep=rep1&type=pdf)
+* [Understanding L-BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)
+* [Optimizer Quasi newton method](http://www.seas.ucla.edu/~vandenbe/236C/lectures/qnewton.pdf)
 
 
 ## DL fundamentals
@@ -103,6 +107,8 @@ Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005
 * [Loss and optimization](http://cs231n.stanford.edu/slides/2020/lecture_3.pdf)
 * [Convolution Neural network notes](https://cs231n.github.io/convolutional-networks/)
 * [Recurrent Neural Networks](http://cs231n.stanford.edu/slides/2020/lecture_10.pdf)
+
+Extra
 * [Calibration in modern neural network](https://arxiv.org/pdf/1706.04599.pdf)
 * [Attention model](https://www.youtube.com/watch?v=quoGRI-1l0A&list=RDCMUCcIXc5mJsHVYTZR1maL5l9w&index=2)
 * [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
