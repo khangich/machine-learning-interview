@@ -87,6 +87,8 @@ Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005
 
 
 # DL fundamentals
+* [The deep learning book](https://www.deeplearningbook.org/). Read [Part ii](https://www.deeplearningbook.org/contents/part_practical.html) and 
+* [Machine Learning Yearning](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf). Read from section 5 to section 27.
 * [Neural network and backpropagation](http://cs231n.stanford.edu/slides/2020/lecture_4.pdf)
 * [Activation functions](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
 * [Loss and optimization](http://cs231n.stanford.edu/slides/2020/lecture_3.pdf)
