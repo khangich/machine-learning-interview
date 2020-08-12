@@ -2,11 +2,11 @@
 ## Intro
 * Problem: Preparing for ML engineer interview can take a lot of time to cover a range of technical areas i.e big data, ML fundamentals, deep learning fundamentals, Leetcode etc. I have only one goal: to save your time. I've been helping around 50 people to prepare for MLE interviews. Now I want to do it at a scale.
 
-* Solution: provide a **minimum** set of focus areas which covers all interview questions. I have interviewed for a lot of big companies (FAAG, MS, SnapChat, StitchFix, Intuit etc). I can not share specific interview questions due to NDA. 
+* Solution: provide a **minimum** set of focus areas which cover all interview questions. I have interviewed for a lot of big companies (FAAG, MS, SnapChat, StitchFix, Intuit etc). I can not share specific interview questions due to NDA. 
 
 ## How to prepare for the interview? 
 1. Before you prepare for the interiview, you can read [common questions](faqs.md). 
-2. If you have never learnt ML, you should first go through the coursera machine leanring course by Andrew Ng (or similar online courses). 
+2. If you have never learnt ML, you should first go through the coursera machine learning course by Andrew Ng (or similar online courses). 
 3. What should I study? Use the [study guide](README.md) as a collection of focus areas. 
 4. Am I ready for interview? Use [readyness tests](ready.md) to see if you're ready for an interview. 
 5. How do I prepare for ML system design? Use [ML usecase](design.md) to practice actual ML system design usecases. 
@@ -80,7 +80,7 @@
 * [Technical debt in ML](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
 * [Ad click prediction trend](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41159.pdf)
 * [Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
-* [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html). Valueable advices in Personal development section at the bottom.
+* [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html). There are valueable advices in Personal development section at the bottom.
 
 ### ML productions
 * [Scaling ML at Uber](https://eng.uber.com/scaling-michelangelo/)
