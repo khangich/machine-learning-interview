@@ -21,24 +21,25 @@
 
  [Leetcode questions by categories](leetcode.md)
 ## SQL
-* Know SQL join: inner, left, right etc. 
-* [Self join](https://www.sqlservertutorial.net/sql-server-basics/sql-server-self-join/)
+* Know SQL join: [self join](https://www.sqlservertutorial.net/sql-server-basics/sql-server-self-join/), inner, left, right etc. 
 * Use [hackerrank](https://www.hackerrank.com/domains/sql) to practice SQL.
 
 ## Programming
+* [Java garbage collection](https://stackify.com/what-is-java-garbage-collection/#:~:text=Java%20garbage%20collection%20is%20the,Machine%2C%20or%20JVM%20for%20short.&text=The%20garbage%20collector%20finds%20these,them%20to%20free%20up%20memory.)
 * [Python pass-by-object-reference](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
 * [Python GIL](https://realpython.com/python-gil/)
 * [Python multithread](https://realpython.com/intro-to-python-threading/)
 * [Python concurrency](https://realpython.com/python-concurrency/)
 
 ## Statistics and probability
+* Learn Bayesian and practice [problems in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
 * Let A and B be events on the same sample space, with P (A) = 0.6 and P (B) = 0.7. Can these two events be disjoint?
 Alice has 2 kids and one of them is a girl. What is the probability that the other child is also a girl? 
 A group of 60 students is randomly split into 3 classes of equal size. All partitions are equally likely. Jack and Jill are two students belonging to that group. What is the probability that Jack and Jill will end up in the same class? 
 * Assume we have a bag with 6 coins in it. 5 coins are fair, and 1 coin has heads on both sides. I randomly picked one coin from the bag, tossed it 3 times, and they were all heads. If I toss the coin again, what is the probability that it is still heads?
 
 * Given an unfair coin with the probability of heads not equal to .5. What algorithm could you use to create a list of random 1s and 0s.  
-Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
+
 
 ## Big data
 * Spark [architecture](http://datastrophic.io/core-concepts-architecture-and-internals-of-apache-spark/) and Spark [lessons learned](https://databricks.com/blog/2016/08/31/apache-spark-scale-a-60-tb-production-use-case.html) (outdated since Spark 3.0 release)  
