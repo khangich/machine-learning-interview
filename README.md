@@ -13,7 +13,8 @@
 
 
 ## LeetCode
-![LC time tracking](https://previews.dropbox.com/p/thumb/AA5HoBG_IAvYpIsdFdhxKNLr-WXC6cufcBYpiuHnEos46pHVVetr8mjFmeZL6wTZ5s5EiDMWpZPKh5EjYhCWkT1o5TMOtgs66MZBkyervCyUbCbUJFqoslWhJY8fp1uY1ZYkXmQXfAwyCS2noqfq8dtePu81wKgLNGx-lA1MIFTFacUurn6sscTtgJ5SQ1K5CGCUVK9_2a-zZh-dyIVGR6Za3U0FpiJn9YYRs-Kt5emp71dRdtbHhftdUJ2n3LlSEJ6qC8tJhYfTJ_CjzpmU1R0TKEe9unY-eXhZJVnwpQxI-Kid9NoyjuiIEg-hb_GhFw_QP8jOT4JHhlT-qr-SnnlJVf3SeMujc6Rc_8QbNjhRhA/p.png?fv_content=true&size_mode=5)
+![LC time tracking](LC.png)
+
 
  I use this [LC time tracking](https://docs.google.com/spreadsheets/d/1RCb1dVQCLmtOGlJ5J-NJ5pIC7Tda-N2U/edit#gid=274831950) to keep track how many times and how long I spent each time for each question. Once I finish non-trivial medium LC question 3 times, I have absolutely no issue to solve them in the actual interview sometime within 8-10 minutes. It makes a big difference.
 
