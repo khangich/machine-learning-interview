@@ -43,7 +43,7 @@
 
 * How long does it take to prepare for interviewing? It depends, 3-4 months is a stretch but doable. 
 
-* Do you recommend doing a few interviews are startups as practice before moving onto the big tech companies? Yes, after 3 startup companies there is diminish of returns after that. 
+* Do you recommend doing a few interviews are startups as practice before moving onto the big tech companies? Yes, after 2-3 startup companies there is diminish of returns. 
 
 * Do you have any negotiation tips you can share? Two simple rules: 1) Do not specify the TC number first. 2) Have competing offers for negotiation. 
 
