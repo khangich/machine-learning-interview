@@ -13,7 +13,9 @@
 
 
 ## LeetCode
-Do not focus on number of problems, focus on number of hours. I found by experiment that once I finish non-trivial medium LC question 3 times, I have absolutely no issue to solve them in the actual interview sometime within 8-10 minutes. It makes a big difference. I use this [spreadsheet](https://docs.google.com/spreadsheets/d/1RCb1dVQCLmtOGlJ5J-NJ5pIC7Tda-N2U/edit#gid=274831950) to keep track how many times and how long I spent each time for each question. I use score from [0,1] to indicate how easy it is for me so I can sort and focus on the hard ones. 
+![LC time tracking](https://previews.dropbox.com/p/thumb/AA5UKPqIq0abcCwpsHSnIQFwDCQJvBOGCeivjH4WFAQve0y3NmTRpzwJsTsNr3GbZR0_EDrx8Am3LPz-mMHdQbwKmPfyZ4Qx4p-etJkDwwN_ZMS5ABX_xva5esf9j5dSRvDHG_dL80jrKGAafVtnllZSaVuwCsprT0lucYM2FdKFZtr4sBKtji3kuYay_3OnsAVQ_S-CfI7_lihmdcMWvC19iHMEMk2wm-EbMU-jsq8vhPq2t7QeVJrLAEkuo9ceRpres-qgNfGH5YSEY6mqutUUlXOzW5bSV5eYSo3X-AumO2IqeuILPs8NDBR4uScBNh6ETQQczhnLEwllhzAKMvbUMksnj5hKDkwtzbjU2hy3Jw/p.png?fv_content=true&size_mode=5)
+
+ I use this [LC time tracking](https://docs.google.com/spreadsheets/d/1RCb1dVQCLmtOGlJ5J-NJ5pIC7Tda-N2U/edit#gid=274831950) to keep track how many times and how long I spent each time for each question. Once I finish non-trivial medium LC question 3 times, I have absolutely no issue to solve them in the actual interview sometime within 8-10 minutes. It makes a big difference.
 
 ### Tree
 * [Ser/deser tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)
