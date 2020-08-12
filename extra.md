@@ -1,0 +1,13 @@
+# Extra reads
+* [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808)
+* [Partial residual plot](https://en.wikipedia.org/wiki/Partial_residual_plot)
+* [SVM tuning](https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/)
+* [kmeans initialization](https://www.coursera.org/lecture/cluster-analysis/3-3-initialization-of-k-means-clustering-bPyBl)
+* [Compare GINI index and Information Gain](https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf)
+* [Explain tf-idf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.7340&rep=rep1&type=pdf)
+* [Understanding L-BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)
+* [Optimizer Quasi newton method](http://www.seas.ucla.edu/~vandenbe/236C/lectures/qnewton.pdf)
+* [Calibration in modern neural network](https://arxiv.org/pdf/1706.04599.pdf)
+* [Attention model](https://www.youtube.com/watch?v=quoGRI-1l0A&list=RDCMUCcIXc5mJsHVYTZR1maL5l9w&index=2)
+* [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+* [Ilya's thesis](https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)

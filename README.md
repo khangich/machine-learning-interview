@@ -10,6 +10,7 @@
 3. What should I study? Use the [study guide](README.md) as a collections of focused areas. 
 4. Am I ready for interview? Use [readyness tests](ready.md) to see if you're  ready for interview. 
 5. How do I prepare for ML system design? Use [ML usecase](design.md) to go practice actual ML system design usecases. 
+6. For advance topics, see [advance](extra.md)
 
 
 
@@ -21,8 +22,8 @@
  [Leetcode questions by categories](leetcode.md)
 ## SQL
 * Know SQL join: inner, left, right etc. 
-* Cumulative sum of top 10 most profitable products of the last 6 months for customers in Seattle. select product, sum(quantity*price) total from transactions where datediff(transaction_dt, CURDATE()) <= 6*3 group by product order by total desc limit 1
 * [Self join](https://www.sqlservertutorial.net/sql-server-basics/sql-server-self-join/)
+* Use [hackerrank](https://www.hackerrank.com/domains/sql) to practice SQL.
 
 ## Programming
 * [Python pass-by-object-reference](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
@@ -63,7 +64,7 @@ Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005
 
 
 ## DL fundamentals
-* [The deep learning book](https://www.deeplearningbook.org/). Read [Part ii](https://www.deeplearningbook.org/contents/part_practical.html) and 
+* [The deep learning book](https://www.deeplearningbook.org/). Read [Part ii](https://www.deeplearningbook.org/contents/part_practical.html) 
 * [Machine Learning Yearning](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf). Read from section 5 to section 27.
 * [Neural network and backpropagation](http://cs231n.stanford.edu/slides/2020/lecture_4.pdf)
 * [Activation functions](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
@@ -103,20 +104,6 @@ Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005
 * [Instagram explore](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)
 * [TikTok recommendation](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you)
 
-## Extra reads
-* [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808)
-* [Partial residual plot](https://en.wikipedia.org/wiki/Partial_residual_plot)
-* [SVM tuning](https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/)
-* [kmeans initialization](https://www.coursera.org/lecture/cluster-analysis/3-3-initialization-of-k-means-clustering-bPyBl)
-* [Compare GINI index and Information Gain](https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf)
-* [Explain tf-idf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.7340&rep=rep1&type=pdf)
-* [Understanding L-BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)
-* [Optimizer Quasi newton method](http://www.seas.ucla.edu/~vandenbe/236C/lectures/qnewton.pdf)
-* [Calibration in modern neural network](https://arxiv.org/pdf/1706.04599.pdf)
-* [Attention model](https://www.youtube.com/watch?v=quoGRI-1l0A&list=RDCMUCcIXc5mJsHVYTZR1maL5l9w&index=2)
-* [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-* [Ilya's thesis](https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
-
 # Provide feedbacks
-1. You can create Issue on this repo. 
+1. You can create Issue or Pull Request on this repo. 
 2. Send ane mail to helppreparemle@gmail.com. 
