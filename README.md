@@ -1,14 +1,15 @@
 # Machine Learning Interview Preparation (MLIP)
 ## Intro
-* Problem: ML engineer interview has a wide range of technical areas i.e big data, ML fundamental, Deep Learning fundamentals, Leetcode etc. Trying to study everything within short time is a bad strategy. I have only one goal: save your time, prepare interview effectively. I've been helping around 50 people to prepare for MLE interview. Now I want to do it at scale.
+* Problem: Preparing for ML engineer interview can take a lot of time to cover range of technical areas i.e big data, ML fundamental, Deep Learning fundamentals, Leetcode etc. I have only one goal: save your time. I've been helping around 50 people to prepare for MLE interview. Now I want to do it at scale.
 
 * Solution: provide a **minimum** set of focus area which covers all interview questions. I have interviewed at a lot of big companies (FAAG, MS, SnapChat, StitchFix, Intuit etc). I will not shared interview questions because of NDA. 
 
 ## How to prepare for interview? 
 1. Before you prepare for interiview, you can read [common questions](faqs.md). 
-2. What should I study? Use the [study guide](README.md) as a collections of focused areas. 
-3. Am I ready for interview? Use [readyness tests](ready.md) to see if you're  ready for interview. 
-4. How do I prepare for ML system design? Use [ML usecase](design.md) to go practice actual ML system design usecases. 
+2. If you have never learned about ML, you should first learn coursera machine leanring by Andrew Ng or similar online courses. 
+3. What should I study? Use the [study guide](README.md) as a collections of focused areas. 
+4. Am I ready for interview? Use [readyness tests](ready.md) to see if you're  ready for interview. 
+5. How do I prepare for ML system design? Use [ML usecase](design.md) to go practice actual ML system design usecases. 
 
 
 
@@ -39,8 +40,7 @@ A group of 60 students is randomly split into 3 classes of equal size. All parti
 Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
 
 ## Big data
-* Spark [architecture](http://datastrophic.io/core-concepts-architecture-and-internals-of-apache-spark/)
-* Spark [lessons learned](https://databricks.com/blog/2016/08/31/apache-spark-scale-a-60-tb-production-use-case.html) (outdated since Spark 3.0 release)  
+* Spark [architecture](http://datastrophic.io/core-concepts-architecture-and-internals-of-apache-spark/) and Spark [lessons learned](https://databricks.com/blog/2016/08/31/apache-spark-scale-a-60-tb-production-use-case.html) (outdated since Spark 3.0 release)  
 * Spark [OOM](https://stackoverflow.com/questions/21138751/spark-java-lang-outofmemoryerror-java-heap-space)
 * Cassandra [best practice](https://tech.ebayinc.com/engineering/cassandra-data-modeling-best-practices-part-1/) and [here](https://cassandra.apache.org/doc/latest/data_modeling/intro.html)
 
@@ -48,7 +48,7 @@ Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005
 ## ML fundamentals
 * [Collinearity](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/) and [read more](https://www.youtube.com/watch?v=Cba9LJ9lS8s)
 * [Random forest vs GBDT](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/)
-* [Synthetic method for unbalanced data](https://www.jair.org/index.php/jair/article/download/10302/24590)
+* [SMOTE synthetic minority over-sampling technique](https://arxiv.org/pdf/1106.1813.pdf)
 * [Compare discriminative vs generative model](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3) and [extra read](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
 * [Logistic regression](https://www.youtube.com/watch?v=-la3q9d7AKQ). Try to implement logistic regression from scratch. Bonus point for vecrtorize version in numpy and complete in 20 minutes. Followup with MapReduce version. 
 * [Quantile regression](https://www.youtube.com/watch?v=s203ScTy4xQ&t=954s)
@@ -59,17 +59,7 @@ Some [exercise in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005
 * [Maximum Likelihood Estimator introduction](https://www.youtube.com/watch?v=jpHreXjtw1Q)
 * [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html). Try to implement Kmeans from scratch. Bonus point for vecrtorize version in numpy and complete in 20 minutes. Followup with worst case time complexity and improvement for initialization. 
 
-Extra
-* [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808)
-* [Partial residual plot](https://en.wikipedia.org/wiki/Partial_residual_plot)
-* [SMOTE synthetic minority over-sampling technique](https://arxiv.org/pdf/1106.1813.pdf)
-* [SVM tuning](https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/)
-* [Explain gradient boosting](https://www.youtube.com/watch?v=wPqtzj5VZus)
-* [kmeans initialization](https://www.coursera.org/lecture/cluster-analysis/3-3-initialization-of-k-means-clustering-bPyBl)
-* [Compare GINI index and Information Gain](https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf)
-* [Explain tf-idf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.7340&rep=rep1&type=pdf)
-* [Understanding L-BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)
-* [Optimizer Quasi newton method](http://www.seas.ucla.edu/~vandenbe/236C/lectures/qnewton.pdf)
+
 
 
 ## DL fundamentals
@@ -81,11 +71,7 @@ Extra
 * [Convolution Neural network notes](https://cs231n.github.io/convolutional-networks/)
 * [Recurrent Neural Networks](http://cs231n.stanford.edu/slides/2020/lecture_10.pdf)
 
-Extra
-* [Calibration in modern neural network](https://arxiv.org/pdf/1706.04599.pdf)
-* [Attention model](https://www.youtube.com/watch?v=quoGRI-1l0A&list=RDCMUCcIXc5mJsHVYTZR1maL5l9w&index=2)
-* [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-* [Ilya's thesis](https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+
 
 
 ## ML system design
@@ -101,9 +87,8 @@ Extra
 ### Food delivery
 * [Uber eats trip optimization](https://eng.uber.com/uber-eats-trip-optimization/)
 * [Uber food discovery](https://eng.uber.com/uber-eats-query-understanding/)
-* [Personalized sore feed](https://blog.doordash.com/personalized-store-feed-with-vector-embeddings-251ad7a2c09a)
+* [Personalized store feed](https://blog.doordash.com/personalized-store-feed-with-vector-embeddings-251ad7a2c09a)
 * [Doordash dispatch optimization](https://doordash.engineering/2020/02/28/next-generation-optimization-for-dasher-dispatch-at-doordash/)
-* [Postmates estimated delivery time](http://engineering.postmates.com/Estimating-Delivery-Times/)
 
 ### Fraud detection (TBD)
 
@@ -118,6 +103,19 @@ Extra
 * [Instagram explore](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)
 * [TikTok recommendation](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you)
 
+## Extra reads
+* [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808)
+* [Partial residual plot](https://en.wikipedia.org/wiki/Partial_residual_plot)
+* [SVM tuning](https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/)
+* [kmeans initialization](https://www.coursera.org/lecture/cluster-analysis/3-3-initialization-of-k-means-clustering-bPyBl)
+* [Compare GINI index and Information Gain](https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf)
+* [Explain tf-idf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.7340&rep=rep1&type=pdf)
+* [Understanding L-BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)
+* [Optimizer Quasi newton method](http://www.seas.ucla.edu/~vandenbe/236C/lectures/qnewton.pdf)
+* [Calibration in modern neural network](https://arxiv.org/pdf/1706.04599.pdf)
+* [Attention model](https://www.youtube.com/watch?v=quoGRI-1l0A&list=RDCMUCcIXc5mJsHVYTZR1maL5l9w&index=2)
+* [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+* [Ilya's thesis](https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 
 # Provide feedbacks
 1. You can create Issue on this repo. 
