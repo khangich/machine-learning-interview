@@ -33,7 +33,7 @@
 
 * Do I need to customize my prepraration for company? I do that and found it's extremely helpful. I spent one hour or two on glassdoor to get the overview of the interview. I also review interviewer's Linkedin thoroughly. 
 
-* Do interviews need to like me? 
+* Do interviews need to like me? Yes, it helps. 
 
 * What to do when you black-out and have no idea how to answer? Take one step back, breath deeply, do not think about anything, just give 30 seconds or so to calm down. If you know the answer, it will come to you. 
 

@@ -59,6 +59,7 @@
 * [Least Square as Maximum Likelihood Estimator](https://www.youtube.com/watch?v=_-Gnu498s3o)
 * [Maximum Likelihood Estimator introduction](https://www.youtube.com/watch?v=jpHreXjtw1Q)
 * [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html). Try to implement Kmeans from scratch. Bonus point for vectorized version in numpy + completed in 20 minutes. Follow-up with worst case time complexity and improvement for initialization.
+* I didn't use [flashcard](https://machinelearningflashcards.com/) but I'm sure it helps up to certain extend.
 
 
 
@@ -107,4 +108,4 @@
 # Acknowledgements and contributing
 1. Thanks for early feedbacks and contributions from [Vivian](https://github.com/liuvivian11), [aragorn87](https://github.com/aragorn87) and others. 
 2. You can create an Issue or Pull Request on this repo.
-3. Send an email to helppreparemle@gmail.com.
+3. Send an email to helppreparemle@gmail.com or contact [me](https://www.linkedin.com/in/phamkhang/)
