@@ -48,6 +48,7 @@
 
 ### ML fundamentals
 * [Collinearity](https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/) and [read more](https://www.youtube.com/watch?v=Cba9LJ9lS8s)
+* [Features scaling](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 * [Random forest vs GBDT](http://fastml.com/what-is-better-gradient-boosted-trees-or-random-forest/)
 * [SMOTE synthetic minority over-sampling technique](https://arxiv.org/pdf/1106.1813.pdf)
 * [Compare discriminative vs generative model](https://medium.com/@mlengineer/generative-and-discriminative-models-af5637a66a3) and [extra read](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
