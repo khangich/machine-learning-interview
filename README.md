@@ -5,11 +5,11 @@
 * The repo provides a **minimum** set of focus areas which cover all actual interview questions. I have interviewed for a lot of big companies (Facebook, Amazon, Apple, Google, MS, SnapChat, StitchFix, Intuit etc). I can not share specific interview questions due to NDA.
 
 ## Getting Started
-1. Before you prepare for the interview, you can read[common questions](faqs.md). 
+1. [Common questions about Machine Learning Interview process](faqs.md). 
 2. If you have never learnt ML, you should first go through the coursera machine learning course by Andrew Ng (or similar online courses). 
-3. What should I study? Use the [study guide](README.md) as a collection of focus areas. 
-4. Am I ready for interview? Use [readyness tests](ready.md) to see if you're ready for an interview. 
-5. How do I prepare for ML system design? Use [ML usecase](design.md) to practice actual ML system design usecases. 
+3. [Study guide](README.md) contained minimum set of focus area to aces your interview.  
+4. [Machine Learning quiz](ready.md) are designed based on actual interview questions from dozen of big companies. 
+5. [ML usecase](design.md) includes actual ML system design usecases. 
 6. For advance topics, see [advance](extra.md)
 
 
