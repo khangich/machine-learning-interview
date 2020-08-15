@@ -1,19 +1,19 @@
 # Machine Learning Interview Preparation (MLIP)
 ## Intro
-* Preparing for an ML engineer interview can take a lot of time to cover a wide range of technical areas i.e big data, ML fundamentals, deep learning fundamentals, Leetcode etc. I have only one goal: to save your time. I've been helping around 50 people to prepare for MLE interviews. Now I want to do it at a scale.
+* Preparing for an ML engineer interview takes a lot of time to cover a wide range of technical areas i.e big data, ML fundamentals, deep learning fundamentals, Leetcode etc. The main purpose of this repo is to save people time by no wasting on irrelevant topics. 
 
-* The repo provides a **minimum** set of focus areas which cover all actual interview questions. I have interviewed for a lot of big companies (Facebook, Amazon, Apple, Google, MS, SnapChat, StitchFix, Intuit etc). I can not share specific interview questions due to NDA.
+* The repo provides a **minimum** set of focus areas which cover all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, StitchFix, Intuit etc. 
 
 ## Getting Started
 1. [Common questions about Machine Learning Interview process](faqs.md). 
 2. If you have never learnt ML, you should first go through the coursera machine learning course by Andrew Ng (or similar online courses). 
 3. [Study guide](README.md) contained minimum set of focus area to aces your interview.  
 4. [Machine Learning quiz](ready.md) are designed based on actual interview questions from dozen of big companies. 
-5. [ML usecase](design.md) includes actual ML system design usecases. 
+5. [ML system design](design.md) includes actual ML system design usecases. 
 6. For advance topics, see [advance](extra.md)
 
 
-## Focus area
+## Study guide
 ### LeetCode
 [<img src="LC.png">](https://docs.google.com/spreadsheets/d/1RCb1dVQCLmtOGlJ5J-NJ5pIC7Tda-N2U/edit#gid=274831950)
 
