@@ -1,5 +1,5 @@
-# ML system design usecases [Work in progress]
-* I'm updating this section, if you're interested click on Watch button. You can also send me an email helpreparemle@gmail.com. 
+# ML system design usecases
+* I'm updating this section, if you're interested click on Watch button or send me an email to helpreparemle@gmail.com. 
 * List of ML system design
 
 ## Ad Click Prediction in social network. 

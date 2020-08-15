@@ -26,6 +26,7 @@
 * [Find in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 * [Search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 ## LinkedList
-* [Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+* Contrary to popular belief, no body really asked LinkedList questions during the interview. There is one exception where you need to use LinkedList to implement [LRU](https://leetcode.com/problems/lru-cache/). [Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+
 ## Design
 * [LRU cache](https://leetcode.com/problems/lru-cache/solution/)
