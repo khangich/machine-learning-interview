@@ -1,17 +1,17 @@
 # ML system design usecases [Work in progress]
 * I'm updating this section, if you're interested click on Watch button. You can also send me an email helpreparemle@gmail.com. 
 * List of ML system design
-## Adtech
-### Ad Click Prediction in social network. 
-* Build a machine learning model to predict if an Ads will be click. In adtech stack, it's common to have a cascade of classifiers of increasing computational cost to handle with l;arge volumne of ads candidate. For this excercise, 
-the last stage click prediction model of a cascade classifier, that is the model that produces predictions for the final set of candidate ads.
+
+## Ad Click Prediction in social network. 
+* Build a machine learning model to predict if an Ads will be click. For simplicity reason, 
+we will not focus about cascade of classifiers that is commonly used in adtech. 
 
 1. Requirements
 * ML model with good performance. 
 * System can scale to larger number of users and low latency.  
-* Imbalance data: you can assume CTR is very small in practice (1%-2%) hence the available labels will be extremely imbalance.
+* Imbalance data: you can assume CTR is very small in practice (1%-2%). 
 * Serving: low latency 150 ms for recommending ads. 
-* Datafreshness: online social network users behaviour are unpredictable and fast changing especially for trending topics. Therefore datafreshness plays an important role in model performance. 
+
 
 2. Calculate and estimation
 * Historical ad clicks data which store combination of (user, ads. click_or_not). 
@@ -38,7 +38,9 @@ the last stage click prediction model of a cascade classifier, that is the model
 * We can use NCE metrics, AUC to choose the best model. 
 * Once we pick the best model we need to calibrate model predictions. 
 
-6. Further readings
+6. Model deployment and testing
+
+7. Further readings
 * [Machine Learning in Adtech](https://www.slideshare.net/databricks/machine-learning-for-adtech-in-action-with-cyrille-dubarry-and-han-ju)
 * [Ad Click Prediction: a View from the trenches](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41159.pdf)
 * [Practical lessons from Predicting Clicks on Ads at Facebook](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)
