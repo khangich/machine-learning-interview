@@ -12,7 +12,7 @@ If you can score 9/10 corrected questions, you are quite ready for ML interview.
 
 This chart shows the score distribution for ML quiz 12. You should try to get 9/10 corrected questions to get to the top 5%. 
 
-![Score distribution](score.png)
+![Score distribution](images/score.png)
 
 ## Leetcode readiness
 * You can to solve Medium question within 20 minutes with little to no bug and clean code. 
