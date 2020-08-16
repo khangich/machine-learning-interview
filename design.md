@@ -8,7 +8,7 @@
 * Build a machine learning model to predict if an Ads will be click. For simplicity reason, 
 we will not focus about cascade of classifiers that is commonly used in adtech. 
 
-* Background how Adtech bidding works
+* Background how Adtech bidding works (source: [ML in AdTech](https://www.slideshare.net/databricks/machine-learning-for-adtech-in-action-with-cyrille-dubarry-and-han-ju))
 
 ![Score distribution](images/ad_bidding.png)
 
@@ -29,7 +29,7 @@ we will not focus about cascade of classifiers that is commonly used in adtech.
 
 3. Metrics evaluation
 * During training phase, we can focus on machine learning metrics instead of revenue metrics or CTR metrics. Regarding revenue-related metric, we usually monitor during deployment and it's out of scope. See section 7 further readings to undertand about offline metrics and online metrics. 
-* Normalized Cross Entropy: predictive log loss divided by the cross entropy of the background CTR. This way NCE is insensitive to background CTR. This is the NCE formula based on Practical lessons from Predicting Clicks on Ads at Facebook. 
+* Normalized Cross Entropy: predictive log loss divided by the cross entropy of the background CTR. This way NCE is insensitive to background CTR. This is the NCE formula (source [facebook](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf))
 
 ![Score distribution](images/nce.png)
 
