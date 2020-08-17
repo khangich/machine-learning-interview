@@ -20,11 +20,16 @@ we will not focus about cascade of classifiers that is commonly used in adtech.
 
 
 2. Calculate and estimation
-* Data: historical ad clicks data which store combination of (user, ads. click_or_not). Assume 4K ads requests per second. Within 1 month, there will be 10 billions ads requests with about 100 millions clicked ads. We can start with 1 month of data for training and validation. 
-* Train/validation data split: We split train/validation to simulate the actual online system i.e: split by time. 
+* Assumptions: 4K ads requests per second which is 10 billions ads requests permonth. 
+* Data: historical ad clicks data includes [user, ads. click_or_not]. With estimated 1% CTR, it has 100 millions clicked ads. We can start with 1 month of data for training and validation. 
 
-* Features: it's obvious that the model need to have enough capacity to learn patterns from big training data. In practice it's common to have hundreds even thousands of features. 
+* Train/validation data split: We split train/validation to simulate the actual online system for example: split by time. 
+
+* Features: it's natural that the model need to have enough capacity to learn patterns from big training data. In practice it's common to have hundreds even thousands of features. 
+
 * Training: ability to retrain many times within one day to increase model performance in online manner. 
+
+* Serving: latency within 150ms per request and 4K request per second. 
 
 
 3. Metrics evaluation
@@ -44,12 +49,13 @@ we will not focus about cascade of classifiers that is commonly used in adtech.
 * Data processing:
     * One way is to subsampling majority negative class at different sub-sampling ratio. The key here is to keep validation dataset have same distribution as test data set. We also need to pay attention how this sampling affect predictions. 
 
-5. Model evaluation and optimization
-* We can use NCE metrics, AUC to choose the best model. 
-* Once we pick the best model we need to calibrate model predictions. 
+5. Model deployment and testing
+* During deployment phase, it's crucial to monitor the actual CTR and other revenue-related metrics.
+* Related to this topic, read more about A/B testing and multi-arms bandit.
 
-6. Model deployment and testing
-* Having the best offline metrics model doesn't mean you can replace the production models. You can read more about putting model in A/B testing or shadowing preductions etc. During comparision between models, one have to observe the actual CTR and other revenue-related metrics.
+6. High level system design
+![system desgin](images/system_design.png)
+
 
 7. Further readings
 * [Machine Learning in Adtech](https://www.slideshare.net/databricks/machine-learning-for-adtech-in-action-with-cyrille-dubarry-and-han-ju)
