@@ -5,6 +5,8 @@
 
 * I have 5 YOE in Machine Learning and have interviewed more than dozen big companies. This is the **minimum** viable study plan that covers all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin, Intuit etc. 
 
+* If you're interested to learn more about ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit).
+
 ## Getting Started
 
 | How to  | Resources |
@@ -17,7 +19,6 @@
 | Advance topics | Read [advance topics](extra.md) |
 | Mock interivew  | Contact helppreparemle@gmail.com |
 
-If you're interested to learn more about ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit).
 
 ## Study guide
 ### LeetCode
