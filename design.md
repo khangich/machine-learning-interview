@@ -1,7 +1,7 @@
 # ML system design usecases
 * This section desribe one example of the ML system design questions. We focus on the modelling excercise. In the future there will be focus on the system level design. 
 
-* I'm updating this section, if you're interested click on Watch button or send me an email to helpreparemle@gmail.com. 
+* If you're interested to learn more about ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit).
 
 
 ## Ad Click Prediction in social network. 
