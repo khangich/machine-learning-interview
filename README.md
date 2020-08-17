@@ -2,7 +2,7 @@
 ## Intro
 * Preparing for an ML engineer interview takes a lot of time to cover a wide range of technical areas i.e big data, ML fundamentals, deep learning fundamentals, Leetcode etc. The main purpose of this repo is to save people time by no wasting on irrelevant topics. 
 
-* The repo provides a **minimum** set of focus areas which cover all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, StitchFix, Intuit etc. 
+* The repo provides a **minimum** set of focus areas which cover all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin, Intuit etc. 
 
 ## Getting Started
 1. [Common questions about Machine Learning Interview process](faqs.md). 
