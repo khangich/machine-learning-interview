@@ -1,17 +1,21 @@
-# Machine Learning Interview Preparation (MLIP)
+# Minimum Viable Plan for Machine Learning Interview (MVP)
 ## Intro
-* Preparing for an ML engineer interview takes a lot of time to cover a wide range of technical areas i.e big data, ML fundamentals, deep learning fundamentals, Leetcode etc. The main purpose of this repo is to save people time by no wasting on irrelevant topics. 
 
-* The repo provides a **minimum** set of focus areas which cover all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin, Intuit etc. 
+* This repo is written based on REAL interview questions from big companies and the study materials are based on legit experts i.e Andrew Ng, Yoshua Bengio etc. 
+
+* I have 5 YOE in Machine Learning and have interviewed more than dozen big companies. This is the **minimum** viable study plan that covers all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin, Intuit etc. 
 
 ## Getting Started
-1. [Common questions about Machine Learning Interview process](faqs.md). 
-2. If you have never learnt ML, you should first go through the coursera machine learning course by Andrew Ng (or similar online courses). 
-3. [Study guide](README.md) contained minimum set of focus area to aces your interview.  
-4. [Machine Learning quiz](ready.md) are designed based on actual interview questions from dozen of big companies. 
-5. [ML system design](design.md) includes actual ML system design usecases. 
-6. For advance topics, see [advance](extra.md)
 
+| How to  | Resources |
+| ------------- | ------------- |
+| Prepare for interview  | [Common questions about Machine Learning Interview process](faqs.md).   |
+| Study guide | [Study guide](README.md) contained minimum set of focus area to aces your interview.   |
+| Design ML system | [ML system design](design.md) includes actual ML system design usecases.    |
+| Test your ML knowledge  | [Machine Learning quiz](ready.md) are designed based on actual interview questions from dozen of big companies.  |
+| Practice coding  | [Leetcode questions by categories for MLE](leetcode.md)  |
+| Advance topics | Read [advance topics](extra.md) |
+| Mock interivew  | Contact helppreparemle@gmail.com |
 
 ## Study guide
 ### LeetCode
@@ -36,7 +40,6 @@
 * Let A and B be events on the same sample space, with P (A) = 0.6 and P (B) = 0.7. Can these two events be disjoint?
 * Alice has 2 kids and one of them is a girl. What is the probability that the other child is also a girl? 
 * A group of 60 students is randomly split into 3 classes of equal size. All partitions are equally likely. Jack and Jill are two students belonging to that group. What is the probability that Jack and Jill will end up in the same class? 
-* Assume we have a bag with 6 coins in it. 5 coins are fair, and 1 coin has heads on both sides. I randomly picked one coin from the bag, tossed it 3 times, and they were all heads. If I toss the coin again, what is the probability that it is still heads?
 * Given an unfair coin with the probability of heads not equal to .5. What algorithm could you use to create a list of random 1s and 0s.  
 
 
@@ -109,4 +112,4 @@
 # Acknowledgements and contributing
 1. Thanks for early feedbacks and contributions from [Vivian](https://github.com/liuvivian11), [aragorn87](https://github.com/aragorn87) and others. 
 2. You can create an Issue or Pull Request on this repo.
-3. Send an email to helppreparemle@gmail.com or contact [me](https://www.linkedin.com/in/phamkhang/)
+3. Send an email to helppreparemle@gmail.com.
