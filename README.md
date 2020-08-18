@@ -65,9 +65,8 @@
 * [Explain boosting](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
 * [Least Square as Maximum Likelihood Estimator](https://www.youtube.com/watch?v=_-Gnu498s3o)
 * [Maximum Likelihood Estimator introduction](https://www.youtube.com/watch?v=jpHreXjtw1Q)
-* [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html). Try to implement Kmeans from scratch. Bonus point for vectorized version in numpy + completed in 20 minutes. Follow-up with worst case time complexity and improvement for initialization.
+* [Kmeans](https://stanford.edu/~cpiech/cs221/handouts/kmeans.html). Try to implement Kmeans from scratch. Bonus point for vectorized version in numpy + completed in 20 minutes. Follow-up with worst case time complexity and improvement for [initialization](extra.md).
 * I didn't use [flashcard](https://machinelearningflashcards.com/) but I'm sure it helps up to certain extend.
-
 
 
 
@@ -79,7 +78,6 @@
 * [Loss and optimization](http://cs231n.stanford.edu/slides/2020/lecture_3.pdf)
 * [Convolution Neural network notes](https://cs231n.github.io/convolutional-networks/)
 * [Recurrent Neural Networks](http://cs231n.stanford.edu/slides/2020/lecture_10.pdf)
-
 
 
 

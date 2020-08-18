@@ -1,5 +1,8 @@
 # Extra reads
-* [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808)
+## ML advance topics
+* [A Comparative Study of Efficient Initialization Methods for the k-means Clustering Algorithm](https://arxiv.org/pdf/1209.1960.pdf)
+* [A Comprehensive Survey of Clustering Algorithms](https://link.springer.com/content/pdf/10.1007/s40745-015-0040-1.pdf)
+* [A Tutorial on Spectral Clustering](https://arxiv.org/pdf/0711.0189.pdf))
 * [Partial residual plot](https://en.wikipedia.org/wiki/Partial_residual_plot)
 * [SVM tuning](https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/)
 * [kmeans initialization](https://www.coursera.org/lecture/cluster-analysis/3-3-initialization-of-k-means-clustering-bPyBl)
@@ -7,6 +10,9 @@
 * [Explain tf-idf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.7340&rep=rep1&type=pdf)
 * [Understanding L-BFGS](https://aria42.com/blog/2014/12/understanding-lbfgs)
 * [Optimizer Quasi newton method](http://www.seas.ucla.edu/~vandenbe/236C/lectures/qnewton.pdf)
+
+## DL advance topics
+* [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808)
 * [Calibration in modern neural network](https://arxiv.org/pdf/1706.04599.pdf)
 * [Attention model](https://www.youtube.com/watch?v=quoGRI-1l0A&list=RDCMUCcIXc5mJsHVYTZR1maL5l9w&index=2)
 * [Word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
