@@ -1,5 +1,5 @@
 # ML system design usecases
-* This section describes one example of the ML system design questions. We focus on the modeling excercise. In the future, there will be a focus on the system level design. 
+* This section describes one example of the ML system design questions. We'll focus on the modeling excercise. In the future, there will be a focus on the system level design. 
 
 * If you're interested to learn more about ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit).
 
@@ -41,13 +41,13 @@ we will not focus on the cascade of classifiers that's commonly used in adtech.
 * Calibration metrics measured by the expected clicks vs the actual observed clicks. Read more about calibration [here](https://arxiv.org/pdf/1706.04599.pdf)
 
 4. Modeling: features scaling, major sub-sambling. 
-* Model: We can use probablistic sparse linear classifier (logistic regression). It's popular because of the computation efficiency and sparsity features.
+* Model: We can use probabilistic sparse linear classifier (logistic regression). It's popular because of the computation efficiency and sparsity features.
 * Feature engineering:
-    * AdvertiserID: it's easily to have millions of advertisiers. One common way to is to use embedding as a distributed representation for advitiserID. If you're not familiar with [embedding](https://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html). Another way is use [feature hashing by Kilian Weinberger](https://arxiv.org/pdf/0902.2206.pdf) to handle large sparse column. Feature hash helps increase speed and reduce memory usage. See video [here](https://www.coursera.org/lecture/machine-learning-applications-big-data/hashing-trick-GswXH). 
+    * AdvertiserID: it's easily to have millions of advertisers. One common way is to use embedding as a distributed representation for advitiserID. If you're not familiar with [embedding](https://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html). Another way is to use [feature hashing by Kilian Weinberger](https://arxiv.org/pdf/0902.2206.pdf) to handle large sparse column. Feature hashing helps increase speed and reduce memory usage. See video [here](https://www.coursera.org/lecture/machine-learning-applications-big-data/hashing-trick-GswXH). 
     * Numeric columns: pay attention to [feature scaling](https://www.datacamp.com/community/tutorials/preprocessing-in-data-science-part-2-centering-scaling-and-logistic-regression).
 
 * Data processing:
-    * One way is subsampling majority negative class at different sub-sampling ratio. The key here is to keep validation dataset have same distribution as test data set. We also need to pay attention how this sampling affect predictions. 
+    * One way is subsampling majority negative class at different sub-sampling ratio. The key here is ensuring that the validation dataset has the same distribution as the test data set. We also need to pay attention how this sampling affect predictions. 
 
 5. Model deployment and testing
 * During deployment phase, it's crucial to monitor the actual CTR and other revenue-related metrics.
