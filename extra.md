@@ -17,6 +17,7 @@
 * [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf%20http://arxiv.org/abs/1502.03167.pdf)
 * [Dropout - A Simple Way to Prevent Neural Networks from Overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 * [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+* [On Large-Batch Training for Deep Learning - Generalization Gap and Sharp Minima](https://arxiv.org/pdf/1609.04836.pdf,)
 * [Calibration in modern neural network](https://arxiv.org/pdf/1706.04599.pdf)
 * [Attention model](https://www.youtube.com/watch?v=quoGRI-1l0A&list=RDCMUCcIXc5mJsHVYTZR1maL5l9w&index=2)
 * [Ilya's thesis](https://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
