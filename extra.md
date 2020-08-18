@@ -2,7 +2,7 @@
 ## ML advance topics
 | Status  | Paper | Why |
 | ------------- | ------------- | ------------- |
-| :white_medium_square: | [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808) | Stratifield sampling is popular. |
+| &#9745; | [Sampling techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808) | Stratifield sampling is popular. |
 | [ ] | [A Comparative Study of Efficient Initialization Methods for the k-means Clustering Algorithm](https://arxiv.org/pdf/1209.1960.pdf) and [kmeans initialization, Coursera](https://www.coursera.org/lecture/cluster-analysis/3-3-initialization-of-k-means-clustering-bPyBl)| Fundamentals about kemans, favourite topics in interviews i.e: LinkedIn|
 | [ ] | [A Comprehensive Survey of Clustering Algorithms](https://link.springer.com/content/pdf/10.1007/s40745-015-0040-1.pdf) | Clustering fundamentals |
 | [ ] | [A Tutorial on Spectral Clustering](https://arxiv.org/pdf/0711.0189.pdf)| Sepctral clustering is intuitive and quite popular. |
