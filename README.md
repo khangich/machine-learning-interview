@@ -5,7 +5,7 @@
 
 * I have 5 YOE in Machine Learning and have interviewed more than dozen big companies. This is the **minimum** viable study plan that covers all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin, Intuit etc. 
 
-* If you're interested to learn more about ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit).
+* If you're interested to learn more about paid ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit).
 
 ## Getting Started
 
@@ -114,6 +114,6 @@
 * [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf%29/)
 
 # Acknowledgements and contributing
-1. Thanks for early feedbacks and contributions from [Vivian](https://github.com/liuvivian11), [aragorn87](https://github.com/aragorn87) and others. 
-2. You can create an Issue or Pull Request on this repo.
-3. Send an email to helppreparemle@gmail.com.
+1. Thanks for early feedbacks and contributions from [Vivian](https://github.com/liuvivian11), [aragorn87](https://github.com/aragorn87) and others. You can create an Issue or Pull Request on this repo.
+2. Thanks to this community, we have contributed about $200 to [HopeForPaws](https://www.hopeforpaws.org/). If you want to support, you can contribute too on their website. 
+3. If you want contribute and want to stay anonymous, send an email to helppreparemle@gmail.com.
