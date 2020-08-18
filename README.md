@@ -34,9 +34,9 @@
 ### Programming
 * [Java garbage collection](https://stackify.com/what-is-java-garbage-collection/#:~:text=Java%20garbage%20collection%20is%20the,Machine%2C%20or%20JVM%20for%20short.&text=The%20garbage%20collector%20finds%20these,them%20to%20free%20up%20memory.)
 * [Python pass-by-object-reference](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
-* [Python GIL](https://realpython.com/python-gil/)
+* [Python GIL](Fluent Python, chapter 17](http://index-of.es/Varios-2/Fluent%20Python%20Clear%20Concise%20and%20Effective%20Programming.pdf)
 * [Python multithread](https://realpython.com/intro-to-python-threading/)
-* [Python concurrency](https://realpython.com/python-concurrency/)
+* [Python concurrency, Fluent Python, chapter 18](http://index-of.es/Varios-2/Fluent%20Python%20Clear%20Concise%20and%20Effective%20Programming.pdf)
 
 ### Statistics and probability
 * Learn Bayesian and practice [problems in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
@@ -86,7 +86,6 @@
 ### ML system design
 #### ML classic paper
 * [Technical debt in ML](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
-* [Ad click prediction trend](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41159.pdf)
 * [Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
 * [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html). There is valuable advice in the Personal development section at the bottom.
 
@@ -99,13 +98,15 @@
 * [Personalized store feed](https://blog.doordash.com/personalized-store-feed-with-vector-embeddings-251ad7a2c09a)
 * [Doordash dispatch optimization](https://doordash.engineering/2020/02/28/next-generation-optimization-for-dasher-dispatch-at-doordash/)
 
+
 #### Fraud detection (TBD)
 
 #### Adtech
+* [Ad click prediction trend](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41159.pdf)
+* [Ad Clicks CTR](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)
 * [Delayed feedbacks](https://blog.twitter.com/engineering/en_us/topics/insights/2019/improving-engagement-on-digital-ads-with-delayed-feedback.html)
 * [Entity embedding](https://blog.twitter.com/engineering/en_us/topics/insights/2018/embeddingsattwitter.html)
 * [Star space, embedding all the things](https://arxiv.org/pdf/1709.03856.pdf)
-* [Ad Clicks CTR](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)
 * [Twitter timeline ranking](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html)
 
 #### Recommendations:
