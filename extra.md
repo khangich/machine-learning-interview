@@ -14,8 +14,8 @@
 
 
 ## DL classic papers
-| Status  | Paper | Why |
-| ------------- | ------------- | ------------- |
+| Paper | Why |
+| ------------- | ------------- |
 | [Understanding the Difficulty of Training Deep Feedforward Neural Networks](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) | Classic paper (2010) about initialization, sigmoid etc |
 | [Delving Deep into Rectifiers - Surpassing Human-Level Performance on ImageNet Classification](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf) | Classic paper (2015) about ReLU, PReLU|
 | [Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf%20http://arxiv.org/abs/1502.03167.pdf) | Classic paper about BatchNorm |
