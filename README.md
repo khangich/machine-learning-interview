@@ -1,4 +1,4 @@
-# Minimum Viable Study Plan for Machine Learning Interview (MVP)
+# Minimum Viable Study Plan for Machine Learning Interview
 ## Intro
 
 * This repo is written based on REAL interview questions from big companies and the study materials are based on legit experts i.e Andrew Ng, Yoshua Bengio etc. 
