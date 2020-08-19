@@ -1,4 +1,4 @@
-# Are you ready for interview?
+# Machine Learning Quiz
 
 ## How do you know when you are ready?
 * I have interviewed about 40 people with DS/ML background and I estimated only 1 or 2 of them actually get a shot at FAANG. It's very competitive. 
