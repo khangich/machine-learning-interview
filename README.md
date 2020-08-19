@@ -14,7 +14,7 @@
 | Prepare for interview  | [Common questions about Machine Learning Interview process](faqs.md).   |
 | Study guide | [Study guide](README.md) contained minimum set of focus area to aces your interview.   |
 | Design ML system | [ML system design](design.md) includes actual ML system design usecases.    |
-| Test your ML knowledge  | [Machine Learning quiz](ready.md) are designed based on actual interview questions from dozen of big companies.  |
+| Test your ML knowledge  | [Machine Learning quiz](quiz.md) are designed based on actual interview questions from dozen of big companies.  |
 | Practice coding  | [Leetcode questions by categories for MLE](leetcode.md)  |
 | Advance topics | Read [advance topics](extra.md) |
 | Mock interivew  | Contact helppreparemle@gmail.com |
