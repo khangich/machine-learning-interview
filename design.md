@@ -1,8 +1,5 @@
 # ML system design usecases
-* This section describes one example of the ML system design questions. We'll focus on the modeling excercise. In the future, there will be a focus on the system level design. 
-
-* If you're interested to learn more about ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit).
-
+* The goal of this section is to provide a structural way to approach ML system design questions. If you're interested to learn more about paid ML system design course with more examples, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit).
 
 ## Ad Click Prediction for Social Networks. 
 * Build a machine learning model to predict if an ad will be clicked. For simplicity reasons, 
