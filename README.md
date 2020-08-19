@@ -115,5 +115,5 @@
 
 # Acknowledgements and contributing
 1. Thanks for early feedbacks and contributions from [Vivian](https://github.com/liuvivian11), [aragorn87](https://github.com/aragorn87) and others. You can create an Issue or Pull Request on this repo.
-2. Thanks to this community, we have contributed about $200 to [HopeForPaws](https://www.hopeforpaws.org/). If you want to support, you can contribute too on their website. 
+2. Thanks to this community, we have donated about $200 to [HopeForPaws](https://www.hopeforpaws.org/). If you want to support, you can contribute too on their website. 
 3. If you want contribute and want to stay anonymous, send an email to helppreparemle@gmail.com.
