@@ -7,8 +7,8 @@
 ## Machine Learning readiness
 
 If you can score 9/10 corrected questions, you are quite ready for ML interview. 
-* [ML quiz 12](https://docs.google.com/forms/d/1mqUIsynU4M79zxeRSVkk85WLUEg67_OhApAObeIFb_A/)
-* [ML quiz 531](https://docs.google.com/forms/d/19WyMTPhxid08bewirQRe39RkLoVi05EaM97zyX9jO8s/edit)
+* [ML quiz 12, medium level](https://forms.gle/aieiHULBTHRYpNH59)
+* [ML quiz 531, a bit difficult](https://forms.gle/dLK8TE6NLoWNU1LV6)
 
 This chart shows the score distribution for ML quiz 12. You should try to get 9/10 corrected questions to get to the top 5%. 
 
