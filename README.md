@@ -41,7 +41,7 @@
 ### Statistics and probability
 * Learn Bayesian and practice [problems in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
 * Let A and B be events on the same sample space, with P (A) = 0.6 and P (B) = 0.7. Can these two events be disjoint?
-* Alice has 2 kids and one of them is a girl. What is the probability that the other child is also a girl? 
+* Given that Alice has 2 kids, at least one of which is a girl, what is the probability that both kids are girls? (credit [swierdo](https://www.reddit.com/user/swierdo/))
 * A group of 60 students is randomly split into 3 classes of equal size. All partitions are equally likely. Jack and Jill are two students belonging to that group. What is the probability that Jack and Jill will end up in the same class? 
 * Given an unfair coin with the probability of heads not equal to .5. What algorithm could you use to create a list of random 1s and 0s.  
 
