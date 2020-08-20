@@ -43,4 +43,4 @@
 | [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) | The famous BERT |
 | [Smart Reply - Automated Response Suggestion for Email](https://arxiv.org/pdf/1606.04870.pdf) | NLP application, useful for ML system design |
 | [Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051) | Simple and fast method to train NLP task in Facebook|
-
+| [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf) | Comprehensive survey (2018) about chatbots|
