@@ -34,7 +34,7 @@
 ### Programming
 * [Java garbage collection](https://stackify.com/what-is-java-garbage-collection/#:~:text=Java%20garbage%20collection%20is%20the,Machine%2C%20or%20JVM%20for%20short.&text=The%20garbage%20collector%20finds%20these,them%20to%20free%20up%20memory.)
 * [Python pass-by-object-reference](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
-* [Python GIL](Fluent Python, chapter 17](http://index-of.es/Varios-2/Fluent%20Python%20Clear%20Concise%20and%20Effective%20Programming.pdf)
+* [Python GIL, Fluent Python, chapter 17](http://index-of.es/Varios-2/Fluent%20Python%20Clear%20Concise%20and%20Effective%20Programming.pdf)
 * [Python multithread](https://realpython.com/intro-to-python-threading/)
 * [Python concurrency, Fluent Python, chapter 18](http://index-of.es/Varios-2/Fluent%20Python%20Clear%20Concise%20and%20Effective%20Programming.pdf)
 
