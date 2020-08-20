@@ -6,7 +6,7 @@
 
 ## Machine Learning readiness
 
-If you can score 9/10 corrected questions, you are quite ready for ML interview. 
+If you can score 9/10 corrected questions, you are quite ready for ML interview. Send an email to helppreparemle@gmail.com for solution. 
 * [ML quiz 12 (medium level)](https://forms.gle/aieiHULBTHRYpNH59)
 * [ML quiz 531 (a bit difficult)](https://forms.gle/dLK8TE6NLoWNU1LV6)
 
