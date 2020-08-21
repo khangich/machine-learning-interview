@@ -5,7 +5,7 @@
 
 * I have 5 YOE in Machine Learning and have interviewed more than dozen big companies. This is the **minimum** viable study plan that covers all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin, Intuit etc. 
 
-* If you're interested to learn more about paid ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit).
+* If you're interested to learn more about paid ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit). This course will provide 6-7 practical usecases with proven solutions. After this course you will be able to solve new problem with systematic approach.
 
 ## Getting Started
 
