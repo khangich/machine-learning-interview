@@ -30,6 +30,7 @@
 ### SQL
 * Know SQL join: [self join](https://www.sqlservertutorial.net/sql-server-basics/sql-server-self-join/), inner, left, right etc. 
 * Use [hackerrank](https://www.hackerrank.com/domains/sql) to practice SQL.
+* Revise/Learn SQL Window Functions: [window functions](https://www.windowfunctions.com/questions/intro/)
 
 ### Programming
 * [Java garbage collection](https://stackify.com/what-is-java-garbage-collection/#:~:text=Java%20garbage%20collection%20is%20the,Machine%2C%20or%20JVM%20for%20short.&text=The%20garbage%20collector%20finds%20these,them%20to%20free%20up%20memory.)
