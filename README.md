@@ -117,7 +117,7 @@
 
 # Acknowledgements and contributing
 1. Thanks for early feedbacks and contributions from [Vivian](https://github.com/liuvivian11), [aragorn87](https://github.com/aragorn87) and others. You can create an Issue or Pull Request on this repo. You can also help upvote on [ProductHunt](https://www.producthunt.com/posts/machine-learning-interview-guideline)
- ddd`
+ 
 2. If you find this repo helpful and want to send me a cup of coffee :).
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/MLinterviews)
