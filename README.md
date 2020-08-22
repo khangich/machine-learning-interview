@@ -1,4 +1,4 @@
-# Minimum Viable Study Plan for Machine Learning Interview
+# Minimum Viable Study Plan for Machine Learning Interviews
 ## Intro
 
 * This repo is written based on REAL interview questions from big companies and the study materials are based on legit experts i.e Andrew Ng, Yoshua Bengio etc. 
@@ -6,7 +6,7 @@
 * I have 5 YOE in Machine Learning and have interviewed more than dozen big companies. This is the **minimum** viable study plan that covers all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin, Intuit etc. 
 
 * If you're interested to learn more about paid ML system design course, [subscribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit). This course will provide 6-7 practical usecases with proven solutions. After this course you will be able to solve new problem with systematic approach.
-* New major release every Sunday 10:30PMm (PDT). If you want to have specific topics, you can [request here](https://forms.gle/qhKBHfznTvKdEMzN6)
+* New major release every Sunday 10:30PM (PDT). If you want to have specific topics, you can [request here](https://forms.gle/qhKBHfznTvKdEMzN6)
 
 ## Getting Started
 
@@ -120,5 +120,6 @@
 2. Thanks to this community, we have donated about $200 to [HopeForPaws](https://www.hopeforpaws.org/). If you want to support, you can contribute too on their website. 
 3. If you want contribute and want to stay anonymous, send an email to helppreparemle@gmail.com.
 4. If you find this repo helpful and want to send me a cup of coffee :).
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/MLinterviews)
 
