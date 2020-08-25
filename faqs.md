@@ -2,6 +2,7 @@
 
 ## Questions about focus areas
 
+* What is the MLE interview process? This [document](https://s3.amazonaws.com/external_clips/3406172/1568840998_The_Ultimate_Guide_to_AI_and_Machine_Learning_Job_Interviews_1_1_.pdf?1587691917) described the process very well. 
 * Did you get questions around PyTorch, TensorFlow and other frameworks? No. 
 
 * Which language should I learn for MLE? Python is useful for both interview coding questions and actual work (tensorflow, pytorch, scikitlearn, pandas etc).
