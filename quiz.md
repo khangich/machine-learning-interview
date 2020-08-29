@@ -14,9 +14,6 @@
 * ML quiz 12 statistics
 ![Score distribution](images/score.png)
 
-## ML system design readiness
-* See [design](design.md)
-
 # Notes
 * If you're interested to learn more about paid ML system design course with more examples, [click here](course.md).
 * If you find this helpful, you can Sponsor this project. It's cool if you don't. 
