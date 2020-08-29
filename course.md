@@ -18,7 +18,7 @@
 - You can see the sample of ML system design [here](https://docs.google.com/document/d/12KrfFYxiqCVmjmHiOfIoqBWuOuZEBXcL1RjWFkY7hLk/edit#). 
 - Another [sample](https://github.com/khangich/machine-learning-interview/blob/master/design.md)
 
-## How to start learning ML system design? (available August 30th)
+## How to start learning ML system design? (available Now)
 - You need to become the sponsor to be able to access the course. Your sponsorship is crucial for me to make high quality content. In general I spend 40 hours to finish one MLSD. 
 - Step 1: First you click the Sponsor button.
 
