@@ -6,6 +6,11 @@
 
 * This [Leetcode post](https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode/659097) combines 36 tips and tricks in improving Leetcode problem solving skills. 
 
+## Leetcode readiness
+* You can to solve Medium question within 20 minutes with little to no bug and clean code. 
+* You can solve medium question with 2,3 different solutions (recursive, top-down DP with memorization, bottom-up DP, bfs/dfs). 
+* You can estimate time complexity for your algorithm correctly. 
+
 ## Tree
 * [Ser/deser tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)
 
@@ -36,6 +41,7 @@
 
 ## Design
 * [LRU cache](https://leetcode.com/problems/lru-cache/solution/)
+
 
 
 # Notes
