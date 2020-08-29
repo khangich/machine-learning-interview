@@ -4,6 +4,7 @@
 * If you can score in top 5% (9 out of 10) and you are good at System design/Machine Learning system design then you're probably ready for interview. Send an email to helppreparemle@gmail.com for solution. 
 
 * List of quizzes
+
 | Quiz | Release date | Number of people took quiz | Top 5% score |
 | ------------- | ------------- |------------- |------------- |
 |ML quiz, upcoming | 9/30/2020 |  | |
