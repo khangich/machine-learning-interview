@@ -1,4 +1,25 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
+
+## ML System design course, will be available on August 30th. Go to [system design course](course.md) for more details. 
+| Section | Release date |
+| ------------- | ------------- |
+| 1. The main components in MLSD | 2020/9/5 |
+| 2. Youtube Recommendation | 2020/8/30 |
+| 3. Ad Click Prediction | 2020/9/10 |
+| 4. Feed Ranking | September |
+| 5. Estimate Delivery time | September |
+| 6. Instagram Recommendation | Early October |
+
+- All course contents are subjected to changed based on actual demands. 
+- Provide your input about [cost](https://forms.gle/dE3zn292NHG6jwds7)
+
+
+### Sample System design
+- You can see the sample of ML system design [here](https://docs.google.com/document/d/12KrfFYxiqCVmjmHiOfIoqBWuOuZEBXcL1RjWFkY7hLk/edit#). 
+- Another [sample](https://github.com/khangich/machine-learning-interview/blob/master/design.md)
+
+
+
 ## Intro
 
 * This repo is written based on REAL interview questions from big companies and the study materials are based on legit experts i.e Andrew Ng, Yoshua Bengio etc. 
