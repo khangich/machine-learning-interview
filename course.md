@@ -1,5 +1,4 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 
 # Machine Learning System Design course
 ## Course content
@@ -22,8 +21,8 @@
 ## How to start learning ML system design? (available August 30th)
 - You need to become the sponsor to be able to access the course. Your sponsorship is crucial for me to make high quality content. In general I spend 40 hours to finish one MLSD. 
 - Step 0: Finish this [survey](https://forms.gle/dE3zn292NHG6jwds7) to provide your opinion about cost. 
-- Step 1: First you click the Sponsor <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sponsors/ntkme" data-icon="octicon-heart" aria-label="Sponsor @ntkme on GitHub">Sponsor</a> button on the right. 
+- Step 1: First you click the
+<a class="github-button" href="https://github.com/sponsors/khangich" data-icon="octicon-heart" aria-label="Sponsor @ntkme on GitHub">Sponsor</a> button on the right. 
 - Step 2: Fill in this form (TBD)
 - Step 3: Check your email for the online course link. 
 
