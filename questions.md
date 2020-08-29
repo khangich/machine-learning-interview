@@ -23,5 +23,7 @@
  * [List of ML questions](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_machine_learning.md)
  * [List of DL questions](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_deep_learning.md)
  * [Other interview questions](https://github.com/Feynman687/Interviews/blob/master/StatML.md)
+
+* If you find this helpful, you can Sponsor this project. It's cool if you don't. 
  
 

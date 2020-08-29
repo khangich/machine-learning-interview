@@ -23,3 +23,7 @@ This chart shows the score distribution for ML quiz 12. You should try to get 9/
 ## ML system design readiness (TBD)
 * See [design](design.md)
 
+# Notes
+* If you're interested to learn more about paid ML system design course with more examples, [click here](course.md).
+* If you find this helpful, you can Sponsor this project. It's cool if you don't. 
+

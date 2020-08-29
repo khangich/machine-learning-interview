@@ -60,3 +60,7 @@ we will not focus on the cascade of classifiers that's commonly used in adtech.
 * [Practical lessons from Predicting Clicks on Ads at Facebook](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)
 * [Predictive Model Performance: Offline and Online Evaluation](http://chbrown.github.io/kdd-2013-usb/kdd/p1294.pdf)
 * [Kaggle CTR prediction](https://www.kaggle.com/c/avazu-ctr-prediction/overview)
+
+# Notes
+* If you're interested to learn more about paid ML system design course with more examples, [click here](course.md).
+* If you find this helpful, you can Sponsor this project. It's cool if you don't. 

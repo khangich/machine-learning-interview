@@ -33,6 +33,6 @@
 - You can stop your subscription any time. 
 - For further questions, please send email helppreparemle@gmail.com. 
 
-## How to join waitlist?
-- [Subcribe here](https://docs.google.com/forms/d/1V3m00czxwGcFgjMP_o4vjRuDt1l8nkkNL5zM0UNLEGI/edit). Currently there are 40 people in the wait list. 
+## Notes
 - If you want to see other use case, [request here](https://forms.gle/ALsKMik5ocwptUZh7)
+* If you find this helpful, you can Sponsor this project. It's cool if you don't. 
