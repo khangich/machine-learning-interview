@@ -25,7 +25,7 @@
 See [![screen](images/sponsor.png)](https://github.com/sponsors/khangich)
 
 - Step 2: [Confirm your email](https://forms.gle/vYHK4ZaCdrMyw7Cw6)
-- Step 3: Check your email for the online course link (within 2 hours)
+- Check your email for the online course link (within 2 hours)
 
 ## Guarantee
 - Solutions are based on actual production and well vetted published papers. 
