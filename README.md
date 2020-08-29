@@ -11,7 +11,7 @@
 | 6. Instagram Recommendation | Early October |
 
 - All course contents are subjected to changed based on actual demands. 
-- Provide your input about [cost](https://forms.gle/dE3zn292NHG6jwds7)
+- Provide your input about [cost](https://forms.gle/dE3zn292NHG6jwds7).
 
 
 ### Sample System design
