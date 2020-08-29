@@ -22,6 +22,7 @@
 - You need to become the sponsor to be able to access the course. Your sponsorship is crucial for me to make high quality content. In general I spend 40 hours to finish one MLSD. 
 - Step 1: First you click the
 <a class="github-button" href="https://github.com/sponsors/khangich" data-icon="octicon-heart" aria-label="Sponsor @ntkme on GitHub">Sponsor</a> button on the right. 
+See ![screen](images/sponsor.png)
 - Step 2: [Confirm your email](https://forms.gle/vYHK4ZaCdrMyw7Cw6)
 - Step 3: Check your email for the online course link (within 2 hours)
 
