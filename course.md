@@ -2,8 +2,8 @@
 ## Course content
 | Section | Release date |
 | ------------- | ------------- |
-| 1. The main components in MLSD | 2020/9/5 |
-| 2. Youtube Recommendation | 2020/8/30 |
+| 1. Youtube Recommendation | 2020/8/30 |
+| 2. The main components in MLSD | 2020/9/5 |
 | 3. Ad Click Prediction | 2020/9/10 |
 | 4. Feed Ranking | September |
 | 5. Estimate Delivery time | September |
