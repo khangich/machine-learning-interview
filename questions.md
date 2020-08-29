@@ -17,3 +17,11 @@
 | If some features have strong colinearity does it make model performance worse?  | Fundamental |
 | What does the decision boundary of logistic regression look like?  | Fundamental | 
  
+
+ # Other question list
+ * [List MLE 99 questions](https://drive.google.com/file/d/14ra3ccTyNw3X5v7d7q-UkYV_VJNLDHcm/view?usp=sharing)
+ * [List of ML questions](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_machine_learning.md)
+ * [List of DL questions](https://github.com/Sroy20/machine-learning-interview-questions/blob/master/list_of_questions_deep_learning.md)
+ * [Other interview questions](https://github.com/Feynman687/Interviews/blob/master/StatML.md)
+ 
+
