@@ -20,11 +20,11 @@
 
 ## How to start learning ML system design? (available Now)
 - You need to become the sponsor to be able to access the course. Your sponsorship is crucial for me to make high quality content. In general I spend 40 hours to finish one MLSD. 
-- Step 1: First you click the Sponsor button.
+- First you click the Sponsor button then follow instruction. 
 
 [![screen](images/sponsor.png)](https://github.com/sponsors/khangich)
 
-- Step 2: [Confirm your email](https://forms.gle/vYHK4ZaCdrMyw7Cw6)
+- Step 2: Go to [online course](https://docs.google.com/document/d/15XIFNS23oWEttgot1ILL3yxWQqGYHnRn8Jh3YyCer3s/edit). You will receive system design in google docs. 
 - Check your email for the online course link (within 2 hours)
 
 ## Guarantee
