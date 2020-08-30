@@ -1,6 +1,6 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
 
-## ML System design course is now available. Go to [system design course](course.md) for more details. 
+## [System design course](course.md) is now available. 
 | Section | Release date |
 | ------------- | ------------- |
 | 1. Youtube Recommendation | 2020/8/30 |
@@ -11,13 +11,10 @@
 | 6. Instagram Recommendation | Early October |
 
 ## How to start learning ML system design?
-- You need to become the sponsor to be able to access the course. Your sponsorship is crucial for me to make high quality content. In general I spend 40 hours to finish one MLSD. 
-- Step 1: First you click the Sponsor button.
-
+- You need to become the sponsor to be able to access the course. Your sponsorship is crucial for me to make high quality content. on average, I spend 40 hours to finish one MLSD. 
+- Click the Sponsor button and follow instruction. Check your email for the online course link (within 2 hours)
 [![screen](images/sponsor.png)](https://github.com/sponsors/khangich)
 
-- Step 2: [Confirm your email](https://forms.gle/vYHK4ZaCdrMyw7Cw6)
-- Check your email for the online course link (within 2 hours)
 
 
 ## Intro
