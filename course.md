@@ -11,7 +11,7 @@
 | 5. Estimate Delivery time | September |
 | 6. Instagram Recommendation | Early October |
 
-- All course contents are subjected to changed based on actual demands. If you want to subscribe the course [click here](https://github.com/sponsors/khangich) and become sponsor. Please follow instruction below.
+- All course contents are subjected to changed based on actual demands. If you want to subscribe the course [click here](https://github.com/sponsors/khangich) and become sponsor. Please follow instructions below.
 
 
 ## System design sample
