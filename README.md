@@ -1,6 +1,6 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
 
-## [System design course](course.md) is now available. 
+## [Machine Learning System design course](course.md) is now available. 
 | Section | Release date |
 | ------------- | ------------- |
 | 1. Youtube Recommendation | 2020/8/30 |
