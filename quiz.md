@@ -18,5 +18,5 @@ If you like these quizzes and want to have more in the future, make [one time do
 
 # Notes
 * If you're interested to learn more about paid ML system design course with more examples, [click here](course.md).
-* If you find this helpful, you can Sponsor this project. It's cool if you don't. 
+* If you find this helpful, you can [Sponsor](https://github.com/sponsors/khangich) this project. It's cool if you don't. 
 
