@@ -8,7 +8,7 @@
 |[ML quiz 531 (difficult level)](https://forms.gle/dLK8TE6NLoWNU1LV6)| 5/30/2020 | 21 | 9 |
 |[ML quiz 12 (medium level)](https://forms.gle/aieiHULBTHRYpNH59)| April 2020 | 67 | 9 |
 
-If you like these quizzes and want to have more in the future, considier [donate one time](https://www.paypal.com/paypalme/MLinterviews) to support me making more quizzes. 
+If you like these quizzes and want to have more in the future, make [one time donation](https://www.paypal.com/paypalme/MLinterviews) to support me making more quizzes. 
 
 ## Quiz statistics
 * If you can score 9/10 corrected questions, you are quite ready for ML interview. I have prepared ML tests based on real questions at big companies i.e: FAAG, Linkedin, Snapchat etc... Send an email to helppreparemle@gmail.com for solution. 
