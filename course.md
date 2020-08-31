@@ -20,6 +20,7 @@
 
 
 ## Frequently asked questions (MUST read before subscribe)
+- Who should NOT subscribe to this course? New grad, people applied for data scientist, research scientist, software engineer positions. People will have onsite interview tomorrow or 1 year from now. 
 - Do you guarantee the sytem design is good enough for me to get a job? No. 
 - Did you copy the solution from the internet? No.
 - Is this your own solution? No. Solutions are based on actual production and well-known published papers. 
