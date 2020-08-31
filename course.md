@@ -23,11 +23,11 @@
 - Who should NOT subscribe to this course? New grad, people applied for data scientist, research scientist, software engineer positions. People will have onsite interview tomorrow or 1 year from now. 
 - Do you guarantee the sytem design is good enough for me to get a job? No. 
 - Did you copy the solution from the internet? No.
-- Is this your own solution? No. Solutions are based on actual production and well-known published papers. 
+- How do I know the solutions are good? Solutions are based on actual production and well-known published papers. 
 - Can I get a refund if I'm not satisfied? No, I can't do it because it's too complicated. 
 - Can I stop subscription? You can stop your subscription any time. You won't be able to access the course.
 - Do you have working solution with code and data? No, it's impossible. 
-- Will you in the future release the whole course for free?
+- Will you in the future release the whole course for free? No
 - Can I request system design usecase? Yes, you can [request here](https://forms.gle/ALsKMik5ocwptUZh7)
 - For further questions, please send email helppreparemle@gmail.com. 
 
