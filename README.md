@@ -1,14 +1,14 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
 
 ## [Machine Learning System design course](course.md) is now available. 
-| Section | Release date |
-| ------------- | ------------- |
-| 1. Youtube Recommendation | 2020/8/30 |
-| 2. The main components in MLSD | 2020/9/5 |
-| 3. Ad Click Prediction | 2020/9/10 |
-| 4. Feed Ranking | September |
-| 5. Estimate Delivery time | September |
-| 6. Instagram Recommendation | Early October |
+| Section | 
+| ------------- |
+| 1. Youtube Recommendation |
+| 2. The main components in MLSD |
+| 3. Ad Click Prediction |
+| 4. Feed Ranking |
+| 5. Estimate Delivery time |
+| 6. Instagram Recommendation |
 
 ## How to start learning ML system design?
 - You need to become the sponsor to be able to access the course. Your sponsorship is crucial for me to make high quality content. on average, I spend 40 hours to finish one MLSD. 
@@ -34,6 +34,7 @@
 | Prepare for interview  | [Common questions about Machine Learning Interview process](faqs.md).   |
 | Study guide | [Study guide](README.md) contained minimum set of focus area to aces your interview.   |
 | Design ML system | [ML system design](design.md) includes actual ML system design usecases.    |
+| ML usecases | [ML usecases](applied.md) from top companies    |
 | Test your ML knowledge  | [Machine Learning quiz](quiz.md) are designed based on actual interview questions from dozen of big companies.  |
 | Practice coding  | [Leetcode questions by categories for MLE](leetcode.md)  |
 | Advance topics | Read [advance topics](extra.md) |
