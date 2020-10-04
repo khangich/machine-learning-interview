@@ -5,11 +5,11 @@
 | Section | Release date |
 | ------------- | ------------- |
 | 1. Youtube Recommendation | 2020/8/30 |
-| 2. The main components in MLSD | 2020/9/5 |
-| 3. Ad Click Prediction | 2020/9/10 |
-| 4. Feed Ranking | September |
-| 5. Estimate Delivery time | September |
-| 6. Instagram Recommendation | Early October |
+| 2. The main components in MLSD | 2020/10/5 |
+| 3. Ad Click Prediction | 2020/10/10 |
+| 4. Feed Ranking | October |
+| 5. Estimate Delivery time | November |
+| 6. Instagram Recommendation | November |
 
 - All course contents are subjected to changed based on actual demands. If you want to subscribe the course [click here](https://github.com/sponsors/khangich) and become sponsor. Please follow instructions below.
 
