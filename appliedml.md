@@ -1,7 +1,7 @@
 
 # ML use cases by company ([source](https://github.com/eugeneyan/applied-ml))
 
-**Table of Contents**
+**Companies**
 
 1. [Alibaba](#Alibaba)
 2. [AirBnB](#AirBnb)
