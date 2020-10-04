@@ -1,5 +1,5 @@
 
-# ML use cases by company [source](https://github.com/eugeneyan/applied-ml)
+# ML use cases by company ([source](https://github.com/eugeneyan/applied-ml))
 
 **Table of Contents**
 
