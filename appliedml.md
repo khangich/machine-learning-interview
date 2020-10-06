@@ -115,6 +115,7 @@
 16. [XML paper](https://arxiv.org/pdf/1911.01464.pdf)
 17. [Unsupervised XLM](https://arxiv.org/pdf/1911.02116.pdf)
 18. [Hate Speech](https://ai.facebook.com/blog/ai-advances-to-better-detect-hate-speech/)
+19. ([DL recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)
 ## GoJek
 1. [The Secret Sauce Behind Search Personalisation](https://blog.gojekengineering.com/the-secret-sauce-behind-search-personalisation-a856fb83c2f)
 2. [How Gojek Uses NLP to Name Pickup Locations at Scale](https://blog.gojekengineering.com/how-gojek-uses-nlp-to-name-pickup-locations-at-scale-ffdb249d1433)
@@ -151,7 +152,7 @@
 
 ## Instagram
 1. [Lessons learned](https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56)
-2. [Feeds rnaking](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)
+2. [Feeds ranking](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)
 
 ## Linkedin
 1. [High-Precision Phrase-Based Document Classification on a Modern Scale](https://engineering.linkedin.com/research/2011/high-precision-phrase-based-document-classification-on-a-modern-scale) ([Paper](http://web.stanford.edu/~gavish/documents/phrase_based.pdf)) 
