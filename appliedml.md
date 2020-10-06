@@ -56,6 +56,7 @@
 9. [Scaling Knowledge Access and Retrieval at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-access-and-retrieval-at-airbnb-665b6ba21e95)
 10. [Optimal Pricing](https://medium.com/airbnb-engineering/learning-market-dynamics-for-optimal-pricing-97cffbcc53e3)
 11. [Apply DL to airbnb search](https://medium.com/airbnb-engineering/applying-deep-learning-to-airbnb-search-7ebd7230891f)
+12. [Forecasting platform](https://medium.com/@jerry.chu/airbnbs-data-platform-of-revenue-forecasting-2e95a01122e6)
 
 
 ## Amazon
@@ -145,7 +146,8 @@
 24. [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml)
 25. [When It Comes to Gorillas, Google Photos Remains Blind](https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/)
 26. [Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale](https://dl.acm.org/doi/abs/10.1145/3299869.3314036) ([Paper](https://dl.acm.org/doi/pdf/10.1145/3299869.3314036))
-6. [Traffic Prediction with Advanced Graph Neural Networks](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks)
+27. [Traffic Prediction with Advanced Graph Neural Networks](https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks)
+28. [DL recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/
 
 ## Instagram
 1. [Lessons learned](https://instagram-engineering.com/lessons-learned-at-instagram-stories-and-feed-machine-learning-54f3aaa09e56)
@@ -225,6 +227,7 @@
 ## Pinterest
 1. [Shop The Look: Building a Large Scale Visual Shopping System at Pinterest](https://dl.acm.org/doi/abs/10.1145/3394486.3403372) ([Paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403372), [Video](https://crossminds.ai/video/5f3369790576dd25aef288d7/))
 2. [Driving upsells from search](https://medium.com/pinterest-engineering/driving-shopping-upsells-from-pinterest-search-d06329255402)
+3. [Pre-Submit Integration Tests For Ads-Serving](https://medium.com/pinterest-engineering/pre-submit-integration-tests-for-ads-serving-a07b5a12ea3f)
 
 
 ## Uber
