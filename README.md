@@ -91,6 +91,8 @@
 * Fundamentals about [PCA](http://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/)
 * I didn't use [flashcard](https://machinelearningflashcards.com/) but I'm sure it helps up to certain extend.
 
+### AB testing
+* [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://www.researchgate.net/publication/339914315_Trustworthy_Online_Controlled_Experiments_A_Practical_Guide_to_AB_Testing)
 
 
 ### DL fundamentals
