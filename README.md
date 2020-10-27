@@ -5,10 +5,9 @@
 | ------------- |
 | 1. Youtube Recommendation |
 | 2. The main components in MLSD |
-| 3. Ad Click Prediction |
-| 4. Feed Ranking |
+| 3. Feed Ranking |
+| 4. Ad Click Prediction |
 | 5. Estimate Delivery time |
-| 6. Instagram Recommendation |
 
 ## How to start learning ML system design?
 - You need to become the sponsor to be able to access the course. Your sponsorship is crucial for me to make high quality content. on average, I spend 40 hours to finish one MLSD. 
