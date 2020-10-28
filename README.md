@@ -9,13 +9,6 @@
 | 4. Ad Click Prediction (Nov 6th)|
 | 5. Estimate Delivery time (Nov 15th)|
 
-## How to start learning ML system design?
-- You need to become the sponsor to be able to access the course. Your sponsorship is crucial for me to make high quality content. on average, I spend 40 hours to finish one MLSD. 
-- Click the Sponsor button and follow instruction. Check your email for the online course link (within 2 hours)
-
-[![screen](images/sponsor.png)](https://github.com/sponsors/khangich)
-
-
 
 ## Intro
 
