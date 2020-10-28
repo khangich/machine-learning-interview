@@ -4,11 +4,13 @@
 ## Course content
 | Section | Release date |
 | ------------- | ------------- |
-| 1. Youtube Recommendation | 2020/8/30 |
-| 2. The main components in MLSD | 2020/10/5 |
-| 3. Feed Ranking | 2020/10/10 |
+| 1. [Youtube Recommendation](https://docs.google.com/document/d/1_hKe8IdgI3ishoP1hyKTi13OtgV87ACQzPfku2ISis0/edit) | 2020/8/30 |
+| 2. [The main components in MLSD](https://docs.google.com/document/d/14l_t6GcXJ_Afp5WYCaUguxrqbdPovdU-P77nSUnYw7M/edit#heading=h.qjsyobo6l22v) | 2020/10/5 |
+| 3. [Feed Ranking](https://docs.google.com/document/d/1kWITEDGz7WBcNRZAvId1c6glgtBbf7rxEauK3TzK3MA/edit) | 2020/10/27 |
 | 4. Ad Click Prediction | November 2020 |
 | 5. Estimate Delivery time | November 2020 |
+
+
 
 - All course contents are subjected to changed based on actual demands. If you want to subscribe the course [click here](https://github.com/sponsors/khangich) and become sponsor. Please follow instructions below.
 
