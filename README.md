@@ -14,10 +14,10 @@
 
 * This repo is written based on REAL interview questions from big companies and the study materials are based on legit experts i.e Andrew Ng, Yoshua Bengio etc. 
 
-* I have 5 YOE in Machine Learning and have interviewed more than dozen big companies. This is the **minimum** viable study plan that covers all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin, Intuit etc. 
+* I have 6 YOE in Machine Learning and have interviewed more than dozen big companies. This is the **minimum** viable study plan that covers all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin etc. 
 
 * If you're interested to learn more about paid ML system design course, [click here](course.md). This course will provide 6-7 practical usecases with proven solutions. After this course you will be able to solve new problem with systematic approach.
-* New major release every **Sunday 10:30PM (PDT)**. If you want to have specific topics, you can [request here](https://forms.gle/qhKBHfznTvKdEMzN6)
+
 
 ## Getting Started
 
