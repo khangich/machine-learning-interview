@@ -8,7 +8,7 @@
 | 2. [The main components in MLSD](https://docs.google.com/document/d/14l_t6GcXJ_Afp5WYCaUguxrqbdPovdU-P77nSUnYw7M/edit#heading=h.qjsyobo6l22v) | 2020/10/5 |
 | 3. [Feed Ranking](https://docs.google.com/document/d/1kWITEDGz7WBcNRZAvId1c6glgtBbf7rxEauK3TzK3MA/edit) | 2020/10/27 |
 | 4. [Ad Click Prediction](https://docs.google.com/document/d/171TRaMK9ADFXGKXOcmONuhhuHwYJDNVDkWDDohBYVNk/edit) | November 2020 |
-| 5. Estimate Delivery time | November 2020 |
+| 5. [Estimate Delivery time](https://docs.google.com/document/d/1yBYE4zR-jlkljeKXDYveXHBWozjrpUOGWghV6SLgzOM/edit) | November 2020 |
 
 
 
