@@ -7,7 +7,7 @@
 | 2. [The main components in MLSD](https://docs.google.com/document/d/14l_t6GcXJ_Afp5WYCaUguxrqbdPovdU-P77nSUnYw7M/edit#heading=h.qjsyobo6l22v) |
 | 3. [LinkedIn Feed Ranking](https://docs.google.com/document/d/1kWITEDGz7WBcNRZAvId1c6glgtBbf7rxEauK3TzK3MA/edit) |
 | 4. [Ad Click Prediction](https://docs.google.com/document/d/171TRaMK9ADFXGKXOcmONuhhuHwYJDNVDkWDDohBYVNk/edit)|
-| 5. Estimate Delivery time (Nov 15th)|
+| 5. [Estimate Delivery time](https://docs.google.com/document/d/1yBYE4zR-jlkljeKXDYveXHBWozjrpUOGWghV6SLgzOM/edit)|
 
 
 ## Intro
