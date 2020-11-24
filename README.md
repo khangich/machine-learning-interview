@@ -11,8 +11,20 @@
 | 6. [Airbnb Search ranking](https://docs.google.com/document/d/1Ecc-BLkaIWOtq5Wd3-BuNS7jq0b1NhclcgxWzReINlQ/edit)|
 
 ## Testimonials
-- V, Amazon L5 DS "I really found the quizzes very helpful for testing my ML understanding. Also, the resources shared helped me a lot for revising concepts for my interview preparation. This course will definitely help engineers crack Machine Learning Engineering and Data Science interviews"
-- K, Facebook MLE "I really like what you've built, it'll help a lot of engineers."
+- V, Amazon L5 DS
+> I really found the quizzes very helpful for testing my ML understanding. Also, the resources shared helped me a lot for revising concepts for my interview preparation. This course will definitely help engineers crack Machine Learning Engineering and Data Science interviews.
+
+- K, Facebook MLE
+> I really like what you've built, it'll help a lot of engineers.
+
+- A, Booking
+> Woow this is very useful summaries, so nice. 
+
+- H, Microsoft
+> That's incredible! 
+
+- V, Intel
+> The repo is extremely cohesive! Thanks again. 
 
 
 ## Intro
