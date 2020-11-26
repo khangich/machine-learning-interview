@@ -10,31 +10,6 @@
 | 5. [Estimate Delivery time](https://docs.google.com/document/d/1yBYE4zR-jlkljeKXDYveXHBWozjrpUOGWghV6SLgzOM/edit)|
 | 6. [Airbnb Search ranking](https://docs.google.com/document/d/1Ecc-BLkaIWOtq5Wd3-BuNS7jq0b1NhclcgxWzReINlQ/edit)|
 
-## Testimonials
-- V, Amazon L5 DS
-> I really found the quizzes very helpful for testing my ML understanding. Also, the resources shared helped me a lot for revising concepts for my interview preparation. This course will definitely help engineers crack Machine Learning Engineering and Data Science interviews.
-
-- K, Facebook MLE
-> I really like what you've built, it'll help a lot of engineers.
-
-- A, Booking
-> Woow this is very useful summaries, so nice. 
-
-- H, Microsoft
-> That's incredible! 
-
-- V, Intel
-> The repo is extremely cohesive! Thanks again. 
-
-
-## Intro
-
-* This repo is written based on REAL interview questions from big companies and the study materials are based on legit experts i.e Andrew Ng, Yoshua Bengio etc. 
-
-* I have 6 YOE in Machine Learning and have interviewed more than dozen big companies. This is the **minimum** viable study plan that covers all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin etc. 
-
-* If you're interested to learn more about paid ML system design course, [click here](course.md). This course will provide 6-7 practical usecases with proven solutions. After this course you will be able to solve new problem with systematic approach.
-
 
 ## Getting Started
 
@@ -146,6 +121,32 @@
 * [TikTok recommendation](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you)
 * [Deep Neural Networks for YouTube Recommendations](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45530.pdf)
 * [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf%29/)
+
+## Testimonials
+- V, Amazon L5 DS
+> I really found the quizzes very helpful for testing my ML understanding. Also, the resources shared helped me a lot for revising concepts for my interview preparation. This course will definitely help engineers crack Machine Learning Engineering and Data Science interviews.
+
+- K, Facebook MLE
+> I really like what you've built, it'll help a lot of engineers.
+
+- A, Booking
+> Woow this is very useful summaries, so nice. 
+
+- H, Microsoft
+> That's incredible! 
+
+- V, Intel
+> The repo is extremely cohesive! Thanks again. 
+
+
+## Intro
+
+* This repo is written based on REAL interview questions from big companies and the study materials are based on legit experts i.e Andrew Ng, Yoshua Bengio etc. 
+
+* I have 6 YOE in Machine Learning and have interviewed more than dozen big companies. This is the **minimum** viable study plan that covers all actual interview questions from Facebook, Amazon, Apple, Google, MS, SnapChat, Linkedin etc. 
+
+* If you're interested to learn more about paid ML system design course, [click here](course.md). This course will provide 6-7 practical usecases with proven solutions. After this course you will be able to solve new problem with systematic approach.
+
 
 # Acknowledgements and contributing
 1. Thanks for early feedbacks and contributions from [Vivian](https://github.com/liuvivian11), [aragorn87](https://github.com/aragorn87) and others. You can create an Issue or Pull Request on this repo. You can also help upvote on [ProductHunt](https://www.producthunt.com/posts/machine-learning-interview-guideline)
