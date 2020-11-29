@@ -14,7 +14,7 @@
 
 
 
-- All course contents are subjected to changed based on actual demands. If you want to subscribe the course [click here](https://github.com/sponsors/khangich) and become sponsor. Please follow instructions below.
+- All course contents are subjected to changed based on actual demands. If you want to subscribe the course [click here](https://github.com/sponsors/khangich) and become sponsor or pay one time fee $50 [here](https://www.paypal.com/paypalme/MLinterviews). Please follow instructions below.
 
 
 ## System design sample
