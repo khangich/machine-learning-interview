@@ -5,7 +5,7 @@
 ## [Machine Learning System design](course.md) is now available. 
 | Section | |
 | ------------- | ------------- | 
-| 1. [Youtube Recommendation](https://docs.google.com/document/d/1_hKe8IdgI3ishoP1hyKTi13OtgV87ACQzPfku2ISis0/edit) |<img src="images/uc3.png" alt="Youtube Recommendation Design" width="100" height="100" href="https://docs.google.com/document/d/1_hKe8IdgI3ishoP1hyKTi13OtgV87ACQzPfku2ISis0/edit"> | 
+| 1. [Youtube Recommendation](https://docs.google.com/document/d/1_hKe8IdgI3ishoP1hyKTi13OtgV87ACQzPfku2ISis0/edit) |<a href="https://docs.google.com/document/d/1_hKe8IdgI3ishoP1hyKTi13OtgV87ACQzPfku2ISis0/edit"> <img src="images/uc3.png" alt="Youtube Recommendation Design" width="100" height="100"> </a>| 
 | 2. [The main components in MLSD](https://docs.google.com/document/d/14l_t6GcXJ_Afp5WYCaUguxrqbdPovdU-P77nSUnYw7M/edit#heading=h.qjsyobo6l22v) | | 
 | 3. [LinkedIn Feed Ranking](https://docs.google.com/document/d/1kWITEDGz7WBcNRZAvId1c6glgtBbf7rxEauK3TzK3MA/edit) | | 
 | 4. [Ad Click Prediction](https://docs.google.com/document/d/171TRaMK9ADFXGKXOcmONuhhuHwYJDNVDkWDDohBYVNk/edit)| | 
