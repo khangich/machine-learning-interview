@@ -1,8 +1,6 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
 
 
-![Score distribution](images/ad_bidding.png)
-
 
 ## [Machine Learning System design](course.md) is now available. 
 | Section | |
