@@ -14,7 +14,7 @@ If you like these quizzes and want to have more in the future, make [one time do
 * If you can score 9/10 corrected questions, you are quite ready for ML interview. I have prepared ML tests based on real questions at big companies i.e: FAAG, Linkedin, Snapchat etc... Send an email to helppreparemle@gmail.com for solution. 
 
 * ML quiz 12 statistics
-![Score distribution](images/score.png)
+![Score distribution](images/score1.png)
 
 # Notes
 * If you're interested to learn more about paid ML system design course with more examples, [click here](course.md).
