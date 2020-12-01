@@ -5,8 +5,8 @@
 | Quiz | Release date | Number of people took quiz | Top 5% score |
 | ------------- | ------------- |------------- |------------- |
 |ML quiz, upcoming | 9/30/2020 |  | |
-|[ML quiz 531 (difficult level)](https://forms.gle/dLK8TE6NLoWNU1LV6)| 5/30/2020 | 21 | 9 |
-|[ML quiz 12 (medium level)](https://forms.gle/aieiHULBTHRYpNH59)| April 2020 | 67 | 9 |
+|[ML quiz 531 (difficult level)](https://forms.gle/dLK8TE6NLoWNU1LV6)| 5/30/2020 | 34 | 9 |
+|[ML quiz 12 (medium level)](https://forms.gle/aieiHULBTHRYpNH59)| April 2020 | 112 | 9 |
 
 If you like these quizzes and want to have more in the future, make [one time donation](https://www.paypal.com/paypalme/MLinterviews) to support me making more quizzes. 
 
