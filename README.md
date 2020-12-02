@@ -47,6 +47,13 @@
 * [Python concurrency, Fluent Python, chapter 18](http://index-of.es/Varios-2/Fluent%20Python%20Clear%20Concise%20and%20Effective%20Programming.pdf)
 
 ### Statistics and probability
+
+* The only cheatsheet that you''ll ever need
+
+[<img src="images/stat_cheatsheet.png">](http://www.wzchen.com/probability-cheatsheet)
+
+
+
 * Learn Bayesian and practice [problems in Bayesian](https://blogs.kent.ac.uk/jonw/files/2015/04/Puza2005.pdf)
 * Let A and B be events on the same sample space, with P (A) = 0.6 and P (B) = 0.7. Can these two events be disjoint?
 * Given that Alice has 2 kids, at least one of which is a girl, what is the probability that both kids are girls? (credit [swierdo](https://www.reddit.com/user/swierdo/))
