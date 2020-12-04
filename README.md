@@ -2,7 +2,7 @@
 
 
 
-## [Machine Learning System design](course.md) is now available. 
+## [Machine Learning System design](course.md) is now available, become [sponsor](https://github.com/sponsors/khangich/) to get started. 
 | Section | |
 | ------------- | ------------- | 
 | 1. [Youtube Recommendation](https://docs.google.com/document/d/1_hKe8IdgI3ishoP1hyKTi13OtgV87ACQzPfku2ISis0/edit) |<a href="https://docs.google.com/document/d/1_hKe8IdgI3ishoP1hyKTi13OtgV87ACQzPfku2ISis0/edit"> <img src="images/uc3.png" alt="Youtube Recommendation Design" width="100" height="100"> </a>| 
