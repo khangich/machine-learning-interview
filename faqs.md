@@ -1,5 +1,10 @@
 # List of common questions
 
+## Question for people have no working experience in DS/ML
+
+* What is the strategy/study plan to get a job in DS/ML? I don't know. There are many ways to make up for knowledge gap. For a competitive field like ML/DS, it's common for people to do the following: 1) get a Master in DS/ML 2) Try career-focused program like [springboard](https://www.springboard.com/), [insight fellows](https://insightfellows.com/) 3) [interview query](https://www.interviewquery.com/)
+
+
 ## Questions about focus areas
 
 * What is the MLE interview process? This [document](https://s3.amazonaws.com/external_clips/3406172/1568840998_The_Ultimate_Guide_to_AI_and_Machine_Learning_Job_Interviews_1_1_.pdf?1587691917) described the process very well. 
