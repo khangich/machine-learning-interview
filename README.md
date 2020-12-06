@@ -139,6 +139,9 @@
 - K, Facebook MLE
 > I really like what you've built, it'll help a lot of engineers.
 
+- D, NVIDIA DS
+> I have been using your github repo to prep for my interviews and got an offer with NVIDIA with their data science team. Thanks again for your help!
+
 - A, Booking
 > Woow this is very useful summaries, so nice. 
 
