@@ -135,8 +135,6 @@
 - V, Amazon L5 DS
 > I really found the quizzes very helpful for testing my ML understanding. Also, the resources shared helped me a lot for revising concepts for my interview preparation. This course will definitely help engineers crack Machine Learning Engineering and Data Science interviews.
 
-- D, DS NVIDIA
-> I have been using your github repo to prep for my interviews and got an offer with NVIDIA with their data science team. Thanks again for your help!
 
 - K, Facebook MLE
 > I really like what you've built, it'll help a lot of engineers.
