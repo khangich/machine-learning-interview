@@ -28,7 +28,7 @@
 
 
 ## Study guide
-### LeetCode
+### LeetCode (not all companies ask Leetcode questions)
 [<img src="images/LC.png">](https://docs.google.com/spreadsheets/d/1RCb1dVQCLmtOGlJ5J-NJ5pIC7Tda-N2U/edit#gid=274831950)
 
 - NOTE: there are a lot of companies that do **NOT** ask leetcode questions. There are many paths to become an MLE, you can create your own path if you feel like leetcoding is a waste of time. 
