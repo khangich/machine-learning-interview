@@ -13,7 +13,8 @@
 * You can solve medium question with 2,3 different solutions (recursive, top-down DP with memorization, bottom-up DP, bfs/dfs). 
 * You can estimate time complexity for your algorithm correctly. 
 
-(source: https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners)
+* Leetcode by topics for beginnier: https://leetcode.com/discuss/career/448024/Topic-wise-problems-for-Beginners
+* Leetcode list by topics (more comprehensive): https://protegejj.gitbook.io/oj-practices/chapter1/dynamic-programming
 ## Two Pointers
 * 75 Sort Colors
 * 80 Remove Duplicates from Sorted Array II
