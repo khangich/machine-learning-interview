@@ -33,7 +33,7 @@
 
 - NOTE: there are a lot of companies that do **NOT** ask leetcode questions. There are many paths to become an MLE, you can create your own path if you feel like leetcoding is a waste of time. 
 
-- I use [LC time tracking](https://docs.google.com/spreadsheets/d/1RCb1dVQCLmtOGlJ5J-NJ5pIC7Tda-N2U/edit#gid=274831950) to keep track of how many times I solves a question and how long I spent each time. Once I finish non-trivial medium LC questions 3 times, I have absolutely no issues solving them in actual interviews (sometimes within 8-10 minutes). It makes a big difference.
+- I use [LC time tracking](https://docs.google.com/spreadsheets/d/1RCb1dVQCLmtOGlJ5J-NJ5pIC7Tda-N2U/edit#gid=274831950) to keep track of how many times I solves a question and how long I spent each time. Once I finish non-trivial medium LC questions 3 times, I have absolutely no issues solving them in actual interviews (sometimes within 8-10 minutes). It makes a big difference. A better way is to use **LeetPlug** chrome extension (here)[https://leetplug.azurewebsites.net/static/pages/howto.html]. 
 
  [Leetcode questions by categories](leetcode.md)
 ### SQL
