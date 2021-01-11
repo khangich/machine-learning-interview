@@ -17,6 +17,7 @@
 
 | How to  | Resources |
 | ------------- | ------------- |
+| List of promising companies | [WealthFront 2021](https://blog.wealthfront.com/career-launching-companies-list/#companies-list).   |
 | Prepare for interview  | [Common questions about Machine Learning Interview process](faqs.md).   |
 | Study guide | [Study guide](README.md) contained minimum set of focus area to aces your interview.   |
 | Design ML system | [ML system design](design.md) includes actual ML system design usecases.    |
