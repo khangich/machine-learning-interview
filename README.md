@@ -2,7 +2,7 @@
 
 
 
-## [Machine Learning System design](course.md) is now available, become [sponsor](https://github.com/sponsors/khangich/) to get started. We will launch the course on educative.io in January 2021. 
+## [Machine Learning System design](course.md) is now available, become [sponsor](https://github.com/sponsors/khangich/) to get started. We will launch the course on educative.io in Feb 9th 2021. 
 | Section | |
 | ------------- | ------------- | 
 | 1. [Youtube Recommendation](https://rebrand.ly/mldesign) |<a href="https://rebrand.ly/mldesign"> <img src="images/uc3.png" alt="Youtube Recommendation Design" width="100" height="100"> </a>| 
