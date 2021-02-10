@@ -1,7 +1,7 @@
 
 # ML use cases by company ([source](https://github.com/eugeneyan/applied-ml))
 
-Read more about ML system design details [here](https://rebrand.ly/mldesign)
+Read more about ML system design details [here](https://rebrand.ly/mldesign). For mock interview,	contact helppreparemle@gmail.com.
 
 **Companies**
 
