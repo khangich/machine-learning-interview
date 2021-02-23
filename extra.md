@@ -45,6 +45,9 @@
 | [Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051) | Simple and fast method to train NLP task in Facebook|
 | [Neural Approaches to Conversational AI](https://arxiv.org/pdf/1809.08267.pdf) | Comprehensive survey (2018) about chatbots|
 
+## Recent breakthrough
+- [Feb 2021, recent breakthrough ClubHouse chat](https://victordibia.com/blog/ai-breakthroughs-feb21/)
+
 # Notes
-* If you're interested to learn more about paid ML system design course with more examples, [click here](course.md).
+* If you're interested to learn more about paid ML system design course on educative.io with more examples, [click here](https://rebrand.ly/mlsd_launch).
 * If you find this helpful, you can Sponsor this project. It's cool if you don't. 
