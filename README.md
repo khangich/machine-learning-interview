@@ -1,8 +1,11 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
 
+- March 17th 2021: Machine Learning System Design is coming to interviewquery.com soon.
+- Feb 9th 2021: [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available on educative.io [here](https://rebrand.ly/mlsd_launch).
 
 
-## [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available, you can get the course on educative.io [here](https://rebrand.ly/mlsd_launch). You can also get the course by becoming sponsor [here](https://github.com/sponsors/khangich).
+## Machine Learning Design
+
 | Section | |
 | ------------- | ------------- | 
 | 1. [Youtube Recommendation](https://rebrand.ly/mldesign) |<a href="https://rebrand.ly/mldesign"> <img src="images/uc3.png" alt="Youtube Recommendation Design" width="100" height="100"> </a>| 
