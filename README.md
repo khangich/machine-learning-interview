@@ -2,7 +2,9 @@
 
 - March 17th 2021: Machine Learning System Design is coming to interviewquery.com soon.
 - Feb 9th 2021: [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available on [educative.io](https://rebrand.ly/mlsd_launch).
-- <a href="https://www.buymeacoffee.com/mlinterview" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
+<a href="https://www.buymeacoffee.com/mlinterview" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="80"></a>
 
 
 ## Machine Learning Design
