@@ -1,6 +1,6 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
 
-- I'm a SWE, ML with 10 years of experience [profile](https://www.linkedin.com/in/phamkhang/). I had offers from top companies: Google, Facebok, Snap, LinkedIn, Stitchfix, Coupang and more. You can book mock interview [here](https://calendly.com/helppreparemle/mock-interview?month=2021-04). I helped people got 20 offers in the past 6 months. 
+- I'm a SWE, ML with 10 years of experience. I had offers from top companies: Google, Facebok, Snap, LinkedIn, Stitchfix, Coupang and more. You can book mock interview [here](https://calendly.com/helppreparemle/mock-interview?month=2021-04). I helped people got 20 offers in the past 6 months. 
 - March 17th 2021: Machine Learning System Design is coming to interviewquery.com soon.
 - Feb 9th 2021: [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available on [educative.io](https://rebrand.ly/mlsd_launch).
 
