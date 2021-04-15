@@ -1,7 +1,7 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
 
 - I'm a SWE, ML with 10 years of experience.
-- March 17th 2021: Machine Learning System Design is coming to interviewquery.com soon.
+- April 15th 2021: Machine Learning System Design is launched on [interviewquery.com](https://rebrand.ly/mldesigninterview)
 - Feb 9th 2021: [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available on [educative.io](https://rebrand.ly/mlsd_launch).
 
 
