@@ -32,7 +32,7 @@
 | Test your ML knowledge  | [Machine Learning quiz](quiz.md) are designed based on actual interview questions from dozen of big companies.  |
 | Practice coding  | [Leetcode questions by categories for MLE](leetcode.md)  |
 | Advance topics | Read [advance topics](extra.md) |
-| Mock interview  | Contact helppreparemle@gmail.com |
+| Mock interview  | Click [here](https://calendly.com/helppreparemle/mock-interview?month=2021-04) |
 
 
 ## Study guide
