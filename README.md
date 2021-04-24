@@ -1,9 +1,13 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
 
-- I'm a SWE, ML with 10 years of experience ([Linkedin profile](https://www.linkedin.com/in/phamkhang/)). I had offers from Google, LinkedIn, Coupang, Snap and StichFix. I helped people get offers for FB E5/E6, Snap, Amazon, NVIDIA, Google and more. 
+- I'm a SWE, ML with 10 years of experience ([Linkedin profile](https://www.linkedin.com/in/phamkhang/)). I had offers from Google, LinkedIn, Coupang, Snap and StichFix. 
 - April 15th 2021: Machine Learning System Design is launched on [interviewquery.com](https://rebrand.ly/mldesigninterview)
 - Feb 9th 2021: [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available on [educative.io](https://rebrand.ly/mlsd_launch).
 
+# Mock interviews
+- I helped people get offers for FB E5/E6, Snap, Amazon, NVIDIA, Google and more. In addition, there are 300+ people took my ML assessments to prepare for their interviews. 
+
+[<img src="terstimonials.png">](https://rebrand.ly/mlsdmock)
 
 
 <a href="https://www.buymeacoffee.com/mlinterview"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mlinterview&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
