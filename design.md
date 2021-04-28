@@ -62,5 +62,5 @@ we will not focus on the cascade of classifiers that's commonly used in adtech.
 * [Kaggle CTR prediction](https://www.kaggle.com/c/avazu-ctr-prediction/overview)
 
 # Notes
-* If you're interested to learn more about paid ML system design course with more examples, [click here](course.md).
+* If you're interested to learn more about paid ML system design course with more examples, [click here](https://rebrand.ly/mlsd_launch).
 * If you find this helpful, you can Sponsor this project. It's cool if you don't. 
