@@ -1,5 +1,5 @@
 # ML system design usecases
-* The goal of this section is to provide a structural way to approach ML system design questions. If you're interested to learn more about paid ML system design course with more examples, [click here](course.md).
+* The goal of this section is to provide a structural way to approach ML system design questions. If you're interested to learn more about paid ML system design course with more examples, [click here](https://rebrand.ly/mlsd_launch).
 
 ## Ad Click Prediction for Social Networks. 
 * Build a machine learning model to predict if an ad will be clicked. For simplicity reasons, 
