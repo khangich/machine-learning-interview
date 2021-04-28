@@ -81,6 +81,8 @@
 * Spark [OOM](https://stackoverflow.com/questions/21138751/spark-java-lang-outofmemoryerror-java-heap-space)
 * Cassandra [best practice](https://tech.ebayinc.com/engineering/cassandra-data-modeling-best-practices-part-1/) and [here](https://cassandra.apache.org/doc/latest/data_modeling/intro.html), [link](https://towardsdatascience.com/when-to-use-cassandra-and-when-to-steer-clear-72b7f2cede76![image](https://user-images.githubusercontent.com/1975237/109818900-5a25fc00-7be8-11eb-8715-ca7d279e84b6.png)
 ), [cassandra performance](https://www.scnsoft.com/blog/cassandra-performance)
+* Practice problem [finding friends with MapReduce](http://stevekrenzel.com/finding-friends-with-mapreduce)
+
 
 
 
