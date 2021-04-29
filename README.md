@@ -1,4 +1,4 @@
-# Introduce ML interview blog mlengineer.io:
+# Introduce ML interview blog mlengineer.io
 - April 29th: I launched [mlengineer.io](http://mlengineer.io/) blog so you can get latest machine learning interview experience. 
  
 # Minimum Viable Study Plan for Machine Learning Interviews
