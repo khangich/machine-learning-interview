@@ -1,3 +1,6 @@
+# Introduce ML interview blog mlengineer.io:
+- April 29th: I launched [mlengineer.io](http://mlengineer.io/) blog so you can get latest machine learning interview experience. 
+ 
 # Minimum Viable Study Plan for Machine Learning Interviews
 
 - I'm a SWE, ML with 10 years of experience ([Linkedin profile](https://www.linkedin.com/in/phamkhang/)). I had offers from Google, LinkedIn, Coupang, Snap and StichFix. Read my [blog](https://rebrand.ly/mleio). 
