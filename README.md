@@ -79,7 +79,7 @@
 * Given an unfair coin with the probability of heads not equal to .5. What algorithm could you use to create a list of random 1s and 0s.  
 
 
-### Big data
+### Big data (NOT required for Google, Facebook interview)
 * Spark [architecture](http://datastrophic.io/core-concepts-architecture-and-internals-of-apache-spark/) and Spark [lessons learned](https://databricks.com/blog/2016/08/31/apache-spark-scale-a-60-tb-production-use-case.html) (outdated since Spark 3.0 release)  
 * Spark [OOM](https://stackoverflow.com/questions/21138751/spark-java-lang-outofmemoryerror-java-heap-space)
 * Cassandra [best practice](https://tech.ebayinc.com/engineering/cassandra-data-modeling-best-practices-part-1/) and [here](https://cassandra.apache.org/doc/latest/data_modeling/intro.html), [link](https://towardsdatascience.com/when-to-use-cassandra-and-when-to-steer-clear-72b7f2cede76![image](https://user-images.githubusercontent.com/1975237/109818900-5a25fc00-7be8-11eb-8715-ca7d279e84b6.png)
