@@ -4,7 +4,7 @@
 
 * What is the strategy/study plan to get a job in DS/ML? I don't know. There are many ways to make up for knowledge gap. For a competitive field like ML/DS, it's common for people to do the following: 1) get a Master in DS/ML 1) Try career-focused program like [insight fellows](https://insightfellows.com/) 2) [interview query](https://www.interviewquery.com/).
 
-* Common questions about [my interview experience](https://mlengineer.io/first-ama-with-me-ml-system-design-author-9d33840b27d1?source=friends_link&sk=197d2de7d04235d4f63ded4d2a42dec5)
+* Common questions about [my interview experience](https://mlengineer.io/first-ama-with-me-ml-system-design-author-9d33840b27d1?source=friends_link&sk=197d2de7d04235d4f63ded4d2a42dec5).
 
 
 ## Questions about focus areas
