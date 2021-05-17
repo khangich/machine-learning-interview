@@ -34,7 +34,8 @@
 | Study guide | [Study guide](README.md) contained minimum set of focus area to aces your interview.   |
 | Design ML system | [ML system design](design.md) includes actual ML system design usecases.    |
 | ML usecases | [ML usecases](appliedml.md) from top companies    |
-| Test your ML knowledge  | [Machine Learning quiz](quiz.md) are designed based on actual interview questions from dozen of big companies.  |
+| Test your ML knowledge  | [Machine Learning quiz](https://mlengineer.io/machine-learning-assessment-db935aa9fafd?source=friends_link&sk=1062e407bea5d842b7684668b005d08c) are designed based on actual interview questions from dozen of big companies.  |
+| One week before onsite interview | Read [one week check list](https://mlengineer.io/machine-learning-engineer-onsite-interview-one-week-checklist-cfd19d57fa02?source=friends_link&sk=80d2bb43c590156a7fa72260dfb4972c) |
 | Practice coding  | [Leetcode questions by categories for MLE](leetcode.md)  |
 | Advance topics | Read [advance topics](extra.md) |
 | Mock interview  | Click [here](https://rebrand.ly/mlsdmock) |
@@ -134,6 +135,11 @@
 * [Uber food discovery](https://eng.uber.com/uber-eats-query-understanding/)
 * [Personalized store feed](https://blog.doordash.com/personalized-store-feed-with-vector-embeddings-251ad7a2c09a)
 * [Doordash dispatch optimization](https://doordash.engineering/2020/02/28/next-generation-optimization-for-dasher-dispatch-at-doordash/)
+
+#### ML design common usecases
+* [ML system design primer](https://interview.mlengineer.io/)
+* [Video recommendation](https://interview.mlengineer.io/)
+* [Feed ranking](https://interview.mlengineer.io/)
 
 
 #### Fraud detection (TBD)
