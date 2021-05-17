@@ -1,11 +1,8 @@
-# Introduce ML interview blog mlengineer.io
-- April 29th: I launched [mlengineer.io](http://mlengineer.io/) blog so you can get latest machine learning interview experience. 
- 
 # Minimum Viable Study Plan for Machine Learning Interviews
-
-- I'm a SWE, ML with 10 years of experience ([Linkedin profile](https://www.linkedin.com/in/phamkhang/)). I had offers from Google, LinkedIn, Coupang, Snap and StichFix. Read my [blog](https://rebrand.ly/mleio). 
+- April 29th: I launched [mlengineer.io](http://mlengineer.io/) blog so you can get latest machine learning interview experience.
 - April 15th 2021: Machine Learning System Design is launched on [interviewquery.com](https://rebrand.ly/mldesigninterview)
 - Feb 9th 2021: [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available on [educative.io](https://rebrand.ly/mlsd_launch).
+- I'm a SWE, ML with 10 years of experience ([Linkedin profile](https://www.linkedin.com/in/phamkhang/)). I had offers from Google, LinkedIn, Coupang, Snap and StichFix. Read my [blog](https://rebrand.ly/mleio). 
 
 # Mock interviews
 - I helped people get offers for FB E5/E6, Snap, Amazon, NVIDIA, Google and more. In addition, there are 300+ people took my ML assessments to prepare for their interviews. Click [here](https://rebrand.ly/mlsdmock)
@@ -85,6 +82,7 @@
 * Cassandra [best practice](https://tech.ebayinc.com/engineering/cassandra-data-modeling-best-practices-part-1/) and [here](https://cassandra.apache.org/doc/latest/data_modeling/intro.html), [link](https://towardsdatascience.com/when-to-use-cassandra-and-when-to-steer-clear-72b7f2cede76![image](https://user-images.githubusercontent.com/1975237/109818900-5a25fc00-7be8-11eb-8715-ca7d279e84b6.png)
 ), [cassandra performance](https://www.scnsoft.com/blog/cassandra-performance)
 * Practice problem [finding friends with MapReduce](http://stevekrenzel.com/finding-friends-with-mapreduce)
+* Everything in [one page](https://mlengineer.io/big-data-knowledge-for-machine-learning-engineer-interview-2020-148d7c335e12?source=friends_link&sk=604c593c522db5195d3bda33dc4662d7).
 
 
 
