@@ -1,7 +1,7 @@
 
 # ML use cases by company ([source](https://github.com/eugeneyan/applied-ml))
 
-Read more about ML system design on [educative.io](https://rebrand.ly/mlsd_launch) or [interviewquery.com](https://rebrand.ly/mldesigninterview). For mock interview,	click [here](https://rebrand.ly/mlsdmock)
+Read more about ML system design on [ML interview](https://rebrand.ly/interviewml), [educative.io](https://rebrand.ly/mlsd_launch) or [interviewquery.com](https://rebrand.ly/mldesigninterview). For mock interview,	click [here](https://rebrand.ly/mlsdmock)
 
 **Companies**
 
