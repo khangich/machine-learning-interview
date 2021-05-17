@@ -1,5 +1,5 @@
 # ML system design usecases
-* The goal of this section is to provide a structural way to approach ML system design questions. If you're interested to learn more about paid ML system design course with more examples, [click here](https://rebrand.ly/mlsd_launch).
+* The goal of this section is to provide a structural way to approach ML system design questions. If you're interested to learn more about paid ML system design course with more examples, [click here](https://rebrand.ly/interviewml).
 
 ## Ad Click Prediction for Social Networks. 
 * Build a machine learning model to predict if an ad will be clicked. For simplicity reasons, 
@@ -55,6 +55,7 @@ we will not focus on the cascade of classifiers that's commonly used in adtech.
 
 
 7. Further readings
+* [Common ML designs](https://rebrand.ly/interviewml)
 * [Machine Learning in Adtech](https://www.slideshare.net/databricks/machine-learning-for-adtech-in-action-with-cyrille-dubarry-and-han-ju)
 * [Ad Click Prediction: a View from the trenches](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41159.pdf)
 * [Practical lessons from Predicting Clicks on Ads at Facebook](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)
