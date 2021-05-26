@@ -10,7 +10,7 @@
 [<img src="terstimonials.png">](https://rebrand.ly/mlsdmock)
 
 
-<a href="https://www.buymeacoffee.com/mlinterview"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mlinterview&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.paypal.com/paypalme/MLinterviews"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mlinterview&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 
 ## Machine Learning Design
