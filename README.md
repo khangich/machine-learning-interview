@@ -36,6 +36,7 @@
 | ML usecases | [ML usecases](appliedml.md) from top companies    |
 | Test your ML knowledge  | [Machine Learning quiz](https://mlengineer.io/machine-learning-assessment-db935aa9fafd?source=friends_link&sk=1062e407bea5d842b7684668b005d08c) are designed based on actual interview questions from dozen of big companies.  |
 | One week before onsite interview | Read [one week check list](https://mlengineer.io/machine-learning-engineer-onsite-interview-one-week-checklist-cfd19d57fa02?source=friends_link&sk=80d2bb43c590156a7fa72260dfb4972c) |
+| How to get offer? | Read [success stories](https://mlengineer.io/mlengineer-io-interview/home) |
 | Practice coding  | [Leetcode questions by categories for MLE](leetcode.md)  |
 | Advance topics | Read [advance topics](extra.md) |
 | Mock interview  | Click [here](https://rebrand.ly/mlsdmock) |
