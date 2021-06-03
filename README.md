@@ -5,7 +5,7 @@
 - I'm a SWE, ML with 10 years of experience ([Linkedin profile](https://www.linkedin.com/in/phamkhang/)). I had offers from Google, LinkedIn, Coupang, Snap and StichFix. Read my [blog](https://rebrand.ly/mleio). 
 
 # Mock interviews
-- I helped people get offers for FB E5/E6, Snap, Amazon, NVIDIA, Google and more. In addition, there are 300+ people took my ML assessments to prepare for their interviews. Click [here](https://rebrand.ly/mlsdmock)
+- My team helped people get offers for FB E5/E6, Snap, Amazon, NVIDIA, Google and more. In addition, there are 600+ people took my ML assessments to prepare for their interviews. Click [here](https://rebrand.ly/mlsdmock)
 
 [<img src="terstimonials.png">](https://rebrand.ly/mlsdmock)
 
