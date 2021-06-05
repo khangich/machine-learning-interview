@@ -32,7 +32,7 @@
 | List of promising companies | [WealthFront 2021 list](https://blog.wealthfront.com/career-launching-companies-list/#companies-list).   |
 | Prepare for interview  | [Common questions about Machine Learning Interview process](faqs.md).   |
 | Study guide | [Study guide](README.md) contained minimum set of focus area to aces your interview.   |
-| Design ML system | [ML system design](design.md) includes actual ML system design usecases.    |
+| Design ML system | [ML system design](https://mlengineer.io/machine-learning-design-interview-d08be9f44260?source=friends_link&sk=97fe3a510957d65b6311d5d38b30c639) includes actual ML system design usecases.    |
 | ML usecases | [ML usecases](appliedml.md) from top companies    |
 | Test your ML knowledge  | [Machine Learning quiz](https://mlengineer.io/machine-learning-assessment-db935aa9fafd?source=friends_link&sk=1062e407bea5d842b7684668b005d08c) are designed based on actual interview questions from dozen of big companies.  |
 | One week before onsite interview | Read [one week check list](https://mlengineer.io/machine-learning-engineer-onsite-interview-one-week-checklist-cfd19d57fa02?source=friends_link&sk=80d2bb43c590156a7fa72260dfb4972c) |
