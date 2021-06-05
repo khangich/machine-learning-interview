@@ -50,7 +50,7 @@
 
 - I use [LC time tracking](https://docs.google.com/spreadsheets/d/1RCb1dVQCLmtOGlJ5J-NJ5pIC7Tda-N2U/edit#gid=274831950) to keep track of how many times I solves a question and how long I spent each time. Once I finish non-trivial medium LC questions 3 times, I have absolutely no issues solving them in actual interviews (sometimes within 8-10 minutes). It makes a big difference. A better way is to use **LeetPlug** chrome extension [here](https://leetplug.azurewebsites.net/static/pages/howto.html)
 
- [Leetcode questions by categories](leetcode.md)
+ [Leetcode questions by categories](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b?sk=cf77975462cb0c96e6a6daebaa3ab7b9)
 ### SQL
 * Know SQL join: [self join](https://www.sqlservertutorial.net/sql-server-basics/sql-server-self-join/), inner, left, right etc. 
 * Use [hackerrank](https://www.hackerrank.com/domains/sql) to practice SQL.
