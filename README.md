@@ -1,4 +1,5 @@
 # Minimum Viable Study Plan for Machine Learning Interviews
+- June 8th: launch [interview stories series](https://rebrand.ly/interviewstory). 
 - April 29th: I launched [mlengineer.io](https://mlengineer.io/from-google-rejection-to-40-offers-71337a224ebe?sk=1408513db21536d25c23f67ce898b37d) blog so you can get latest machine learning interview experience.
 - April 15th 2021: Machine Learning System Design is launched on [interviewquery.com](https://rebrand.ly/mldesigninterview).
 - Feb 9th 2021: [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available on [educative.io](https://rebrand.ly/mlsd_launch).
