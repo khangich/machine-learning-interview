@@ -5,13 +5,6 @@
 - Feb 9th 2021: [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available on [educative.io](https://rebrand.ly/mlsd_launch).
 - I'm a SWE, ML with 10 years of experience ([Linkedin profile](https://www.linkedin.com/in/phamkhang/)). I had offers from Google, LinkedIn, Coupang, Snap and StichFix. Read my [blog](https://rebrand.ly/mleio). 
 
-# Mock interviews
-- My team helped people get offers for FB E5/E6, Snap, Amazon, NVIDIA, Google and more. In addition, there are 600+ people took my ML assessments to prepare for their interviews. Click [here](https://rebrand.ly/mlsdmock)
-
-[<img src="terstimonials.png">](https://rebrand.ly/mlsdmock)
-
-
-<a href="https://www.buymeacoffee.com/mlinterview"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mlinterview&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 
 ## Machine Learning Design
@@ -41,7 +34,7 @@
 | FAANG companies actual MLE interviews | Read [interview stories](https://mlengineer.io/mlengineer-io-interview/home) |
 | Practice coding  | [Leetcode questions by categories for MLE](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b)  |
 | Advance topics | Read [advance topics](extra.md) |
-| Mock interview  | Click [here](https://rebrand.ly/mlsdmock) |
+
 
 
 ## Study guide
