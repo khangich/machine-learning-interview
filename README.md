@@ -1,6 +1,6 @@
 
 # Minimum Viable Study Plan for Machine Learning Interviews
-- Nov 16th, you can follow this [Machine Learning interview course](https://rebrand.ly/mlcourse) (video-based)
+- Nov 16th, you can follow this [Machine Learning interview course](https://rebrand.ly/mlcourse) (video-based) and get offers from FAANG companies like dozen people [offers](https://mlengineer.io/from-google-rejection-to-40-offers-71337a224ebe)
 - Most popular post: [One lesson I learned after solving 500 leetcode questions](https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b)
 - Oct 10th: Machine Learning System Design course became the [number 1 ML course](https://www.linkedin.com/posts/activity-6853724396188790784-tWxj) on educative. 
 - June 8th: launch [interview stories series](https://rebrand.ly/interviewstory). 
