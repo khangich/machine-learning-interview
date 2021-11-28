@@ -187,6 +187,7 @@ Read more about ML system design on [ML interview](https://rebrand.ly/interviewm
 28. [Course recommendation](https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-one)
 29. [Fairness toolkit](https://engineering.linkedin.com/blog/2021/using-the-linkedin-fairness-toolkit-large-scale-ai)
 30. [Embedding feature platform](https://engineering.linkedin.com/blog/2020/pensieve)
+31. [recrutier search and recommendation](https://engineering.linkedin.com/blog/2019/04/ai-behind-linkedin-recruiter-search-and-recommendation-systems)
 
 ## Lyft
 1. [Matchmaking in Lyft Line (Part 1)](https://eng.lyft.com/matchmaking-in-lyft-line-9c2635fe62c4) [(Part 2)](https://eng.lyft.com/matchmaking-in-lyft-line-691a1a32a008) [(Part 3)](https://eng.lyft.com/matchmaking-in-lyft-line-part-3-d8f9497c0e51)
