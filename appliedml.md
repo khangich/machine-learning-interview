@@ -117,7 +117,7 @@ Read more about ML system design on [ML interview](https://rebrand.ly/interviewm
 16. [XML paper](https://arxiv.org/pdf/1911.01464.pdf)
 17. [Unsupervised XLM](https://arxiv.org/pdf/1911.02116.pdf)
 18. [Hate Speech](https://ai.facebook.com/blog/ai-advances-to-better-detect-hate-speech/)
-19. ([DL recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)
+19. ([DL recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/) and https://arxiv.org/pdf/1906.00091.pdf
 ## GoJek
 1. [The Secret Sauce Behind Search Personalisation](https://blog.gojekengineering.com/the-secret-sauce-behind-search-personalisation-a856fb83c2f)
 2. [How Gojek Uses NLP to Name Pickup Locations at Scale](https://blog.gojekengineering.com/how-gojek-uses-nlp-to-name-pickup-locations-at-scale-ffdb249d1433)
