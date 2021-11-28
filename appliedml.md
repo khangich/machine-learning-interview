@@ -183,6 +183,10 @@ Read more about ML system design on [ML interview](https://rebrand.ly/interviewm
 24. [LiFT: A Scalable Framework for Measuring Fairness in ML Applications](https://engineering.linkedin.com/blog/2020/lift-addressing-bias-in-large-scale-ai-applications) ([Paper](https://arxiv.org/pdf/2008.07433.pdf))
 25. https://www.slideshare.net/QiGuo19/talent-search-and-recommendation-systems-at-linkedin-practical-challenges-and-lessons-learned-127365935
 26. https://www.linkedin.com/in/souvix/detail/treasury/position:287530671/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAAYyI0MBDXEAGeQTiwqWQZyI48Yk682t5wE%2C50828921)&section=position%3A287530671&treasuryCount=2
+27. [Personalization](https://engineering.linkedin.com/blog/2020/quality-matches-via-personalized-ai)
+28. [Course recommendation](https://engineering.linkedin.com/blog/2020/course-recommendations-ai-part-one)
+29. [Fairness toolkit](https://engineering.linkedin.com/blog/2021/using-the-linkedin-fairness-toolkit-large-scale-ai)
+30. [Embedding feature platform](https://engineering.linkedin.com/blog/2020/pensieve)
 
 ## Lyft
 1. [Matchmaking in Lyft Line (Part 1)](https://eng.lyft.com/matchmaking-in-lyft-line-9c2635fe62c4) [(Part 2)](https://eng.lyft.com/matchmaking-in-lyft-line-691a1a32a008) [(Part 3)](https://eng.lyft.com/matchmaking-in-lyft-line-part-3-d8f9497c0e51)
