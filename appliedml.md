@@ -88,6 +88,7 @@ Read more about ML system design on [ML interview](https://rebrand.ly/interviewm
 2. [Retraining Machine Learning Models in the Wake of COVID-19](https://doordash.engineering/2020/09/15/retraining-ml-models-covid-19/)
 3. [Supporting Rapid Product Iteration with an Experimentation Analysis Platform](https://doordash.engineering/2020/09/09/experimentation-analysis-platform-mvp/)
 4. https://doordash.engineering/2021/04/28/improving-eta-prediction-accuracy-for-long-tail-events/
+5. https://heartbeat.comet.ml/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
 
 ## Dropbox
 1. [Using Machine Learning to Predict what File you Need Next (Part 1)](https://dropbox.tech/machine-learning/content-suggestions-machine-learning)
