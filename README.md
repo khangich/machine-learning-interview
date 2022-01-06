@@ -1,6 +1,6 @@
 
 # Minimum Viable Study Plan for Machine Learning Interviews
-- Jan 6th 2022, I'm writing [ML interview books] (https://rebrand.ly/mlbooks) 
+- Jan 6th 2022, I'm writing [ML interview books](https://rebrand.ly/mlbooks) 
 - Most popular post: [One lesson I learned after solving 500 leetcode questions](https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b)
 - Oct 10th: Machine Learning System Design course became the [number 1 ML course](https://www.linkedin.com/posts/activity-6853724396188790784-tWxj) on educative. 
 - June 8th: launch [interview stories series](https://rebrand.ly/interviewstory). 
