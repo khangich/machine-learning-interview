@@ -1,6 +1,8 @@
 
 # Minimum Viable Study Plan for Machine Learning Interviews
-- Feb 14th 2022, check out [ML interview books](https://www.amazon.com/dp/B09S9JBT86) on Amazon. 
+
+<a href="https://www.amazon.com/dp/B09S9JBT86"> <img src="https://miro.medium.com/max/1400/1*AzK1wTEV_yr_7YZBtpl8yg.png" alt="Machine Learning Interviews book on Amazon" width="100" height="100"> </a>|
+
 - Most popular post: [One lesson I learned after solving 500 leetcode questions](https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b)
 - Oct 10th: Machine Learning System Design course became the [number 1 ML course](https://www.linkedin.com/posts/activity-6853724396188790784-tWxj) on educative. 
 - June 8th: launch [interview stories series](https://rebrand.ly/interviewstory). 
