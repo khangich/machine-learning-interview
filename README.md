@@ -1,9 +1,9 @@
 
 # Minimum Viable Study Plan for Machine Learning Interviews
-<center>
-<a href="https://www.amazon.com/dp/B09S9JBT86"> <img src="https://miro.medium.com/max/1400/1*AzK1wTEV_yr_7YZBtpl8yg.png" alt="Machine Learning Interviews book on Amazon" width="300" height="300"> </a>
+<p align="center">
+<a href="https://www.amazon.com/dp/B09S9JBT86"> <img src="https://miro.medium.com/max/1400/1*AzK1wTEV_yr_7YZBtpl8yg.png" alt="Machine Learning Interviews book on Amazon" width="500" height="300"> </a>
  
-</center>
+</p>
 
 
 - Most popular post: [One lesson I learned after solving 500 leetcode questions](https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b)
