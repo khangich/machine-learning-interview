@@ -1,6 +1,9 @@
 
 # Minimum Viable Study Plan for Machine Learning Interviews
 <p align="center">
+ Machine Learning System Design - Early Preview <br>
+ <a href="https://rebrand.ly/MachineLearningDesignShort"> <img src="https://miro.medium.com/max/1400/1*Te6wgTLFw9AD6r9D6sVNMg.png" alt="Machine Learning System Design Interview" width="400" height="300"> </a>
+ 
  Machine Learning interviews book on Amazon.<br>
 <a href="https://www.amazon.com/dp/B09S9JBT86"> <img src="https://miro.medium.com/max/1400/1*AzK1wTEV_yr_7YZBtpl8yg.png" alt="Machine Learning Interviews book on Amazon" width="400" height="300"> </a>
  
