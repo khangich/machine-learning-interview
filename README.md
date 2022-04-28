@@ -1,7 +1,7 @@
 
 # Minimum Viable Study Plan for Machine Learning Interviews
 <p align="center">
- Machine Learning System Design - Early Preview - Available on Amazon May 15th <br>
+ Machine Learning System Design - Early Preview - Available on Amazon May 1st <br>
  <a href="https://rebrand.ly/MachineLearningDesignShort"> <img src="https://miro.medium.com/max/1400/1*Te6wgTLFw9AD6r9D6sVNMg.png" alt="Machine Learning System Design Interview" width="400" height="300"> </a>
  
  </p>
