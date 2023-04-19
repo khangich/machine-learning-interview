@@ -26,7 +26,7 @@ we will not focus on the cascade of classifiers that's commonly used in adtech.
 
 * Training: ability to retrain many times within one day to increase model performance in online manner. 
 
-* Serving: latency within 150ms per request and 4K request per second. 
+* Serving: latency within 150ms per request and 4K request per second. Test
 
 
 3. Metrics evaluation
