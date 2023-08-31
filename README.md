@@ -11,6 +11,7 @@
  
 </p>
 
+Follow [News about AI projects](https://news.llmlab.io/)
 
 - Most popular post: [One lesson I learned after solving 500 leetcode questions](https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b)
 - Oct 10th: Machine Learning System Design course became the [number 1 ML course](https://www.linkedin.com/posts/activity-6853724396188790784-tWxj) on educative. 
